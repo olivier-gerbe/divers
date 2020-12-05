@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FICHES>
+	<VERSION_FLUX>1.2</VERSION_FLUX>
+	<FICHE>
+		<ID_FICHE>7025</ID_FICHE>
+		<NUMERO_FICHE>RNCP5041</NUMERO_FICHE>
+		<INTITULE><![CDATA[Un des meilleurs ouvriers de France (diplôme d'Etat)  Groupe métiers de l'audiovisuel      Spécialité : métiers de l'image animée option image animée]]></INTITULE>
+		<ABREGE>
+			<CODE>Autre</CODE>
+			<LIBELLE><![CDATA[Autre certification professionnelle de droit]]></LIBELLE>
+		</ABREGE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV5</NIVEAU>
+			<INTITULE>niveau5</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>323s</CODE>
+				<INTITULE><![CDATA[Techniques de l'image et du son, métiers connexes du spectacle]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Ministère chargé de l'enseignement supérieur]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[Les activités exercées portent sur les différents aspects du métier avec un niveau d'exigence et un degré d'excellence très élevé. L'examen « Un des meilleurs ouvriers de France »  a pour buts : •    d'améliorer la formation professionnelle des adultes,    <br /> •    de développer le goût et l'attachement de l'ouvrier, de l'artisan et, plus généralement, de toute    <br /> •    personne concourant à la production de biens ou de services, à l'excellence du travail,    <br /> •    de permettre à chacun d'affirmer sa personnalité, son esprit d'initiative et de progrès et d'obtenir la juste récompense de ses efforts,    <br /> •    de participer à la formation initiale et à l'information des jeunes,    <br /> •    d'encourager l'ensemble des professionnels à prendre en compte des technologies nouvelles tout en    <br /> •    sauvegardant les connaissances et les savoir-faire qui relèvent de techniques traditionnelles,    <br /> •    de faire valoir la place du travail manuel de qualité dans la formation générale de tout jeune Français,    <br /> •    de concourir au développement des entreprises et de leur compétitivité.    <br /> <br />
+]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[Compétences ou capacités attestées Les réalisations que le candidat présente dans le cadre de l'examen ont pour objet de vérifier qu'il maîtrise les techniques qu'implique leur exécution et qu'il possède les aptitudes pour les mener à bien. indépendamment des connaissances et des savoir-faire exigés pour ces réalisations, il doit apporter le fruit des acquis techniques les    <br /> plus récents. Enfin, le candidat doit être en mesure de mettre en évidence ses facultés d'imagination, de créativité, de    <br /> recherche et d'innovation dans les domaines scientifique, technique, économique et artistique.    <br /> <br />
+]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[L'exercice du métier à ce niveau de compétence peut s'effectuer essentiellement dans des PME-PMI artisanales.]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[.]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>L1505</CODE>
+				<LIBELLE><![CDATA[Image cinématographique et télévisuelle]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_CL>Oui</SI_JURY_CL>
+		<JURY_CL><![CDATA[Voir ci-dessus]]></JURY_CL>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[Décret n° 2001-599 du 5 juillet 2001 publié au Journal Officiel du10 juillet 2001 Arrêté du 17 juin 2003 publié au JO du 27 juin 2003    <br /> Arrêté du 24 mars 2006 publié au journal Officiel du 8 avril 2006    <br />
+]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<LIEN_STATISTIQUES><![CDATA[ <a href = "http://www.meilleursouvriersdefrance.org">http://www.meilleursouvriersdefrance.org </a>]]></LIEN_STATISTIQUES>
+		<TYPE_ENREGISTREMENT>Enregistrement de droit</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>4370</ID_FICHE>
+		<NUMERO_FICHE>RNCP29553</NUMERO_FICHE>
+		<INTITULE><![CDATA[Réalisateur 3D]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV6</NIVEAU>
+			<INTITULE>niveau6</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>320v</CODE>
+				<INTITULE><![CDATA[Spécialités plurivalentes de la communication]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>31709861400157</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[MJM GRAPHIC DESIGN]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[MJM Graphic Design Paris]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Le réalisateur 3D concourt à une ou plusieurs phases de la création et de la réalisation artistique, technique et organisationnelle d'une production 3D, qu'il s'agisse d'un film d’animation, d'une séquence publicitaire, d'un jeu vidéo, etc.<br />Ses activités principales sont :<br />1) - la participation à la gestion de projet pour un client ou au sein de l'entreprise;<br />2) - la modélisation de personnage et d'un environnement;<br />3) - l'habillage et le texturage;<br />4) - l'éclairage et le rendu;<br />5) - l'animation (qui comprend l'interactivité).</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Capacités attestées<br />1) participation à la gestion d'un projet de réalisation 3D :<br />- mettre en œuvre une méthodologie de travail au service d’un concept créatif; coordonner les différents acteurs de la réalisation (programmeurs, scénaristes, infographistes 2D, etc.); ordonnancer les tâches; effectuer une veille technologique<br />2) modélisation :<br />-  réaliser des formes sculptées en 3D (objets, personnages, lieux) à partir de plans, de dessins, d’images existantes, de photos, en utilisant les outils informatiques appropriés<br />3) habillage et texture :<br />- recouvrir les formes sculptées lors de la modélisation par des matériaux adéquats tels que normalisés dans la documentation, en utilisant les outils informatiques appropriés<br />4) éclairage et rendu :<br />- choisir et étalonner les couleurs; savoir doser l'intensité des lumières et des ombres; positionner les caméras virtuelles des personnages, des accessoires et des décors;<br />5) animation :<br />- concevoir et programmer les mouvements et déplacements des objets et personnages ; appliquer des effets spéciaux basiques</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>En tant que salarié ou sous le statut de free-lance, il peut travailler dans le cadre :<br />- d'une société de production audiovisuelle,<br />- d'un studio de développement spécialisé dans la 3D,<br />- d'une société d'édition multimédia ,<br />- d'un studio de post-production cinématographique,<br />- d'une société de développement de jeux vidéos,<br />- d’une agence de communication et de publicité.</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Liste non-exhaustive des métiers visés :<br />- animateur 2D- animateur 3D- graphiste 2D- graphiste 3D- designer graphique- storyboarder- décorateur- modeleur / set up personnages- modeleur décors- infographiste layout- opérateur compositing / FX- assistant réalisateur- réalisateur- monteur- testeur- scénariste- metteur en scène- superviseur en animation- directeur de l’animation- directeur artistique- chargé de production- administrateur de production- responsable de post-production- directeur de production- chef de studio- level designer</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>E1205</CODE>
+				<LIBELLE><![CDATA[Réalisation de contenus multimédias]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>E1104</CODE>
+				<LIBELLE><![CDATA[Conception de contenus multimédias]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>L1304</CODE>
+				<LIBELLE><![CDATA[Réalisation cinématographique et audiovisuelle]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<p>un représentant des employeurs, un réalisateur 3D professionnel indépendant, un responsable pédagogique</p>]]></JURY_FI>
+		<SI_JURY_CA>Oui</SI_JURY_CA>
+		<JURY_CA><![CDATA[<p>un représentant des employeurs, un réalisateur 3D professionnel indépendant, un responsable pédagogique</p>]]></JURY_CA>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>un représentant des employeurs, un réalisateur 3D professionnel indépendant, un responsable pédagogique</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>un représentant des employeurs, un réalisateur 3D professionnel indépendant, un responsable pédagogique</p>]]></JURY_CQ>
+		<SI_JURY_CL>Non</SI_JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>un représentant des employeurs, un réalisateur 3D professionnel indépendant, un responsable pédagogique</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 27 décembre 2017 publié au Journal Officiel du 30 décembre 2017 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour trois ans, au niveau II, sous l'intitulé "Réalisateur 3D " avec effet au 12 juillet 2013, jusqu'au 30 décembre 2020.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<DATE_PREMIER_JO>30/12/2017</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>30/12/2017</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<p>http://www.mjm-design.com/</p><br/> <a href = "http://www.mjm-design.com/">MJM Graphic Design </a><br/><a href = "http://www.mjm-design.com/">MJM Graphic Design </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>30/12/2020</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>4885</ID_FICHE>
+		<NUMERO_FICHE>RNCP16454</NUMERO_FICHE>
+		<INTITULE><![CDATA[Agent de sécurité mobile]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV3</NIVEAU>
+			<INTITULE>niveau3</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>344t</CODE>
+				<INTITULE><![CDATA[Surveillance, lutte contre la fraude, protection et sauvegarde des biens et des personnes]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>42122132600026</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[CENAFOR]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[CENAFOR]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>L’Agent de sécurité mobile est un agent de sécurité qui effectue des interventions et des rondes au sein d’une entreprise de sécurité, de nuit comme de jour.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Les capacités attestées relèvent des domaines de :<br />- Connaissance du  cadre légal de la sécurité privé :<br />                      - Réglementation, code pénal, code civil.<br />- Anticiper les risques en matière de prévention :<br />                      - Prévention, Surveillance, gardiennage, ronde, détection.<br />- Participer à des interventions :<br />                      -Intervention, secours à personne, équipier de première intervention (incendie)<br />- Communiquer en interne et en externe :<br />                      -Rendre compte, appel à secours, rapport oral et écrit.<br />Particularité du poste :<br />Il dispose d’un véhicule non banalisé et équipé de moyen de communication, mis à la disposition de l’entreprise</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>L’Agent de sécurité mobile est un agent de sécurité qui effectue des interventions et des rondes au sein d’une entreprise de sécurité, de nuit comme de jour.</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Agent de sécurité</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>K2503</CODE>
+				<LIBELLE><![CDATA[Sécurité et surveillance privées]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[<p>• Casier judiciaire vierge (art. 6 de la loi 83-629)<br />. Autorisation préfectorale : carte provisoire ou carte préalable avant l’entrée en formation<br />. Permis de conduire B minimum</p>]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_CA>Oui</SI_JURY_CA>
+		<JURY_CA><![CDATA[<p> Obligatoirement une personne ayant pour qualité « dirigeant ou adjoint à la direction d’entreprise de sécurité » ou un salarié ayant en charge une équipe de « rondier mobile intervenant » ayant une ancienneté de TROIS ans au moins dans le poste et qui sera désigné par l’organisme certificateur  Quatre membres sont convoqués (parité homme - femme) - Directeur ou adjoint de sécurité - Deux responsables de sécurité de plus de trois et cinq années d’activités - Salarié ayant au moins trois ans d’expériences  Pourcentage de membres extérieurs à l’autorité délivrant la certification : 100 % </p>]]></JURY_CA>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Obligatoirement une personne ayant pour qualité « dirigeant ou adjoint à la direction d’entreprise de sécurité » ou un salarié ayant en charge une équipe de « rondier mobile intervenant » ayant une ancienneté de TROIS ans au moins dans le poste et qui sera désigné par l’organisme certificateur<br>
+<br>
+Quatre membres sont convoqués (parité homme - femme)<br>
+- Directeur ou adjoint de sécurité<br>
+- Deux responsables de sécurité de plus de trois et cinq années d’activités<br>
+- Salarié ayant au moins trois ans d’expériences<br>
+<br>
+Pourcentage de membres extérieurs à l’autorité délivrant la certification : 100 %</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p> Obligatoirement une personne ayant pour qualité « dirigeant ou adjoint à la direction d’entreprise de sécurité » ou un salarié ayant en charge une équipe de « rondier mobile intervenant » ayant une ancienneté de TROIS ans au moins dans le poste et qui sera désigné par l’organisme certificateur  Quatre membres sont convoqués (parité homme - femme) - Directeur ou adjoint de sécurité - Deux responsables de sécurité de plus de trois et cinq années d’activités - Salarié ayant au moins trois ans d’expériences  Pourcentage de membres extérieurs à l’autorité délivrant la certification : 100 % </p>]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>idem</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Oui</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Oui</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 22 janvier 2013 publié au Journal Officiel du 5 mars 2013 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour trois ans, au niveau V, sous  l'intitulé "Agent de sécurité mobile" avec effet au 29 novembre 2010, jusqu'au 5 mars 2016.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 11 décembre 2018 publié le 18 décembre 2018 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, au niveau V, sous l'intitulé "Agent de sécurité mobile"  jusqu'au du 18 décembre 2023.</p>
+<p>Arrêté du 09 avril 2018 publié au Journal Officiel le 17 avril 2018 portant enregistrement au répertoire national des certifications professionnelles. Il est mis fin à l'enregistrement de la certification à compter du 03 mars 2017.</p>
+<p>Arrêté du 23 février 2017 publié le 3 mars 2017 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, au niveau V, sous l'intitulé "Agent de sécurité mobile" avec effet au 5 mars 2016, jusqu'au du 03 mars 2022.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>05/03/2013</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>18/12/2023</DATE_DERNIER_JO>
+		<DATE_FIN_ENREGISTREMENT>18/12/2023</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>19561</ID_FICHE>
+		<NUMERO_FICHE>RNCP34362</NUMERO_FICHE>
+		<INTITULE><![CDATA[Responsable de projets en marketing]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<FORMACODES>
+			<FORMACODE>
+				<CODE>15234</CODE>
+				<LIBELLE><![CDATA[ anglais]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>34530</CODE>
+				<LIBELLE><![CDATA[ vente par internet]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>32035</CODE>
+				<LIBELLE><![CDATA[ conduite projet]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>34573</CODE>
+				<LIBELLE><![CDATA[ action commerciale]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>46347</CODE>
+				<LIBELLE><![CDATA[ stratégie communication numérique]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>46270</CODE>
+				<LIBELLE><![CDATA[ création site internet]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>32091</CODE>
+				<LIBELLE><![CDATA[ benchmarking]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>34085</CODE>
+				<LIBELLE><![CDATA[ stratégie commerciale]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>46052</CODE>
+				<LIBELLE><![CDATA[ PAO]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>98717</CODE>
+				<LIBELLE><![CDATA[ contrat de professionnalisation]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>98716</CODE>
+				<LIBELLE><![CDATA[ contrat d’apprentissage]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>34076</CODE>
+				<LIBELLE><![CDATA[ gestion relation client]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>34052</CODE>
+				<LIBELLE><![CDATA[ marketing]]></LIBELLE>
+			</FORMACODE>
+			<FORMACODE>
+				<CODE>50002</CODE>
+				<LIBELLE><![CDATA[ Certifications/diplômes/titres niveau 2]]></LIBELLE>
+			</FORMACODE>
+		</FORMACODES>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV6</NIVEAU>
+			<INTITULE>niveau6</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>312</CODE>
+				<INTITULE><![CDATA[Commerce, vente]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>18180001200021</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[CHAMBRE COMMERCE ET D INDUSTRIE DU CHE]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<PARTENAIRES>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[CHAMBRE DE COMMERCE ET D INDUSTRIE]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>18280001100104</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_ORGA_FORM
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+		</PARTENAIRES>
+		<ACTIVITES_VISEES><![CDATA[<p>Le Responsable de Projets en Marketing pilote, anime et fait collaborer en mode projet les différentes fonctions de l’entreprise. Pour chaque projet il propose, dirige, anime et contrôle une équipe projet réunissant des compétences nécessaires : informaticien, prestataire en bases de données, concepteur, rédacteur, graphiste, imprimeur, routeur, centre d’appels, community manager…</p>
+<p>Il est responsable dans l’équipe projet de la cohérence de ses actions avec la stratégie de l’entreprise, de la réalisation ainsi que des aspects financiers. Il rapporte à la direction marketing ou commerciale.</p>
+<p>Ses capacités dans le domaine de la créativité font l’objet d’une attention particulière.  </p>
+<p>Dans une logique d’ouverture internationale, il favorise « la fidélisation et l’orientation client » de l’entreprise.  </p>
+<p>Pour permettre à l’entreprise un apprentissage de ces nouveaux modes de fonctionnement, il insuffle dans les plans d’action une dynamique transversale, « digitale » et « cross-canal » en redéfinissant les processus, les frontières entre les fonctions de l’entreprise (SI, relation client), en y intégrant les technologies numériques et les enjeux du développement durable.</p>
+<p>Professionnel des démarches du marketing, il : </p>
+<ul>
+  <li>permet de dé-complexifier l’expérience de l’utilisateur et d’anticiper de nouveaux usages , </li>
+  <li>rapproche les services commerciaux, marketing, conception, informatique et logistique et SAV, </li>
+  <li>met en œuvre la politique relation client de l’entreprise et participe aux objectifs commerciaux et marketing.  </li>
+</ul>
+<p>Pilier dans la réception des informations clients et leur traitement, il conçoit le CRM pour de traiter l’information et diffuser des messages aux cibles.  </p>
+<p>Ces principaux domaines d’activité :  </p>
+<ul>
+  <li>assiste et coordonne les équipes commerciales, marketing et logistique, dans la conception et le déploiement des produits ou services qui répondent aux attentes clients, </li>
+  <li>manage l’écoute client (gestion des commandes, relation client, SAV, …) dans le respect de la politique qualité de l’entreprise, </li>
+  <li>rencontre les clients, en soutien des équipes commerciales, marketing et techniques,</li>
+  <li>assure le support méthodologique des commerciaux dans le cadre de l’organisation de l’écoute de leur client, </li>
+  <li>accompagne le développement sur des marchés nationaux et internationaux de l’entreprise, </li>
+  <li>élabore les tableaux de bord de l’écoute client, </li>
+  <li>traite les non conformités et fait le suivi des réclamations des clients, </li>
+  <li>coordonne les démarches d’amélioration de produits et services, la réalisation des démonstrateurs (proof of concepts) en liens avec les besoins des clients.  </li>
+</ul>
+<p>Il a des qualités d’écoute, de dialogue et rédactionnelles, une capacité à anticiper les demandes des clients, un goût pour l’informatique et les nouvelles technologies, les outils modernes de communication (blogs, forums, réseaux sociaux). Il a une grande autonomie et la capacité à travailler en « transversalité ». Il est capable de mener et motiver des équipes, de travailler dans un contexte à dimension internationale. Ces activités s’exercent au sein des départements Recherche et Développement, du service client, de la logistique.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Le métier de Responsable de Projets en Marketing visé par la certification se déploie en 5 compétences : </p>
+<ol>
+  <li>écoute le client et analyse du besoin,</li>
+  <li>définition d’un plan marketing,</li>
+  <li>conception des actions marketing, </li>
+  <li>pilotage et réalisation de la production marketing, </li>
+  <li>contrôle et évaluation des actions marketing.  </li>
+</ol>
+<p>Ces compétences structurent le référentiel des compétences de la certification. Elles mobilisent des hommes, des moyens techniques et financiers désormais dans un contexte international</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>Le responsable de projets en marketing exerce son métier comme salarié dans l'entreprise :</p>
+<p>- dans une organisation utilisatrice des méthodes de marketing,</p>
+<p>- chez un prestataire en marketing (agence de communication, agence marketing, prestataire en bases de données...). </p>
+<p><br></p>
+<p>A l'issue de la certification, le certifié occupe un poste : </p>
+<p>- en entreprise industrielle : selon la taille de l'entreprise poste hiérarchiquement rattaché au chef d'entreprise (TPI), au service commercial (PMI), au service marketing, au service relation client ou service qualité (grandes entreprises), </p>
+<p>- en entreprise commerciale et de services : poste rattaché à la direction commerciale ou marketing, fonctionnellement en relation avec des prestataires et clients internes et externes, </p>
+<p>- en agence marketing/publicité : poste hiérarchiquement rattaché au chef d'agence et fonctionnellement en relation avec les services conception, fabrication/production, commercial. Le certifié peut également avoir une fonction commerciale, dans la mesure où c'est lui qui est en contact avec l'annonceur pour lui proposer les services de son agence. </p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Dans les offres d'emploi ou définition des postes, les entreprises n'utilisent pas toujours le titre "Responsable de projets en Marketing" ou les appellations ROME, mais la description des missions correspond bien aux activités concernées :</p>
+<p>- responsable marketing relationnel,</p>
+<p>- chef de projet en marketing,</p>
+<p>- chef de projet en Marketing direct,</p>
+<p>- chef de projet e-CRM,</p>
+<p>- chargé de plan médias,</p>
+<p>- chef de produit,</p>
+<p>- chef de produit fidélisation,</p>
+<p>- responsable de promotion directe,</p>
+<p>- responsable marketing clients,</p>
+<p>- responsable compte client,</p>
+<p>- consultant marketing direct,</p>
+<p>- Web marketer,</p>
+<p>- chargé de la relation client,</p>
+<p>- yield manager,</p>
+<p>- UX Designer,</p>
+<p>La diversité des appellations témoigne que les contours du poste sont définis par les besoins particuliers de chaque entreprise. </p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>E1401</CODE>
+				<LIBELLE><![CDATA[Développement et promotion publicitaire]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>M1704</CODE>
+				<LIBELLE><![CDATA[Management relation clientèle]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>M1705</CODE>
+				<LIBELLE><![CDATA[Marketing]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>E1103</CODE>
+				<LIBELLE><![CDATA[Communication]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[<p>Non concernés</p>]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<ul>
+  <li>Président du jury : Président de la Chambre de Commerce et d'Industrie ou son représentant</li>
+  <li>Membres des jury de soutenance composé de 3 professionnels du marketing.</li>
+</ul>]]></JURY_FI>
+		<SI_JURY_CA>Oui</SI_JURY_CA>
+		<JURY_CA><![CDATA[<ul>
+  <li>Président du jury : Président de la Chambre de Commerce et d'Industrie ou son représentant </li>
+  <li>Membres des jury de soutenance composé de 3 professionnels du marketing.</li>
+</ul>]]></JURY_CA>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<ul>
+  <li>Président du jury : Président de la Chambre de Commerce et d'Industrie ou son représentant </li>
+  <li>Membres des jury de soutenance composé de 3 professionnels du marketing.</li>
+</ul>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<ul>
+  <li>Président du jury : Président de la Chambre de Commerce et d'Industrie ou son représentant </li>
+  <li>Membres des jury de soutenance composé de 3 professionnels du marketing.</li>
+</ul>]]></JURY_CQ>
+		<SI_JURY_CL>Non</SI_JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<ul>
+  <li>Président du jury : Responsable de l'Ecole, Responsable de la Certification</li>
+  <li>Représentant de l'organisme de formation : responsable des études ou enseignant expert du domaine</li>
+  <li>Deux professionnels</li>
+</ul>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<STATISTIQUES_PROMOTIONS>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2018</ANNEE>
+				<NOMBRE_CERTIFIES>34</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>0</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>88</TAUX_INSERTION_GLOBAL_6MOIS>
+			</STATISTIQUES_PROMOTION>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2017</ANNEE>
+				<NOMBRE_CERTIFIES>36</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>0</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>89</TAUX_INSERTION_GLOBAL_6MOIS>
+			</STATISTIQUES_PROMOTION>
+		</STATISTIQUES_PROMOTIONS>
+		<LIEN_STATISTIQUES><![CDATA[<p>http://www.estacom.fr/</p>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>16/12/2024</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<BLOCS_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34362BC01</CODE>
+				<LIBELLE><![CDATA[Ecouter le client et analyser ses besoins]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p>Analyser le marché et utiliser des outils de mesure d’écoute et de satisfaction du client/consommateur. </p>
+<ul>
+  <li>Utiliser des méthodes et des outils d’analyse de marché. Effectuer une veille technologique et concurrentielle :<br>
+<em>- Déterminer les points à évaluer pour une connaissance des marchés de l’entreprise, concevoir et réaliser les études de marché correspondantes (documentaires/qualitatives/quantitatives) ;<br>
+- Entreprendre des démarches de benchmarking ; Anticiper les évolutions sociétales et évaluer les nouvelles tendances de consommation (Sociologie du consommateur) ;<br>
+-  Présenter les résultats de l’analyse marché (SWOT).</em><br>
+</li>
+  <li>Recueillir et analyser les données relatives à l’écoute, la satisfaction et la fidélisation des consommateurs/clients (Analyser les usages/utilisation des produits et services) ;<br>
+<em>- Identifier et analyser les besoins, motivations-freins, comportements et attentes du consommateur/utilisateur (psychologie du consommateur) ;<br>
+- Rechercher, consulter et analyser les données clients issues des études et autres systèmes de bases de données ;<br>
+- Écouter et décrypter l’expérience vécue par le client ;<br>
+- Exploiter, enrichir et qualifier une base de données clients ;<br>
+- Utiliser les techniques d’analyse sémantique textuelle pour l’analyse des avis communautaires (utilisation du logiciel Proxem) pour améliorer la relation clients.</em></li>
+</ul>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p>1- Modalités d'évaluation au centre : une étude de cas sous forme d’une synthèse écrite et d’une soutenance orale :</p>
+<ul>
+  <li>  Un rapport d’analyse de tendances et d’usage dans un secteur d’activités identifié (sport, luxe ou tourisme).</li>
+</ul>
+<p><strong>Objectifs:</strong></p>
+<p>-  Evaluer la capacité d’analyse du secteur d’activité;</p>
+<p>-  Evaluer la pertinence de l’analyse qualitative et quantitative;</p>
+<p>-  Evaluer la pertinence des résultats;</p>
+<p>-  Evaluer la rédaction du document.</p>
+<ul>
+  <li>Un rapport d’étude de marché dans un secteur d’activités identifié (sport, luxe ou tourisme).</li>
+</ul>
+<p><strong>Objectifs:</strong></p>
+<p>-  Evaluer la capacité d’analyse du secteur d’activité;</p>
+<p>-  Evaluer la pertinence de l’analyse qualitative et quantitative;</p>
+<p>-  Evaluer la pertinence des résultats;</p>
+<p>-  Evaluer la rédaction du document.</p>
+<p><br></p>
+<p>2- Modalités d'évaluation des projets réalisés sur demande de l’entreprise caractérisée par soit un rapport écrit et/ou une présentation orale au sein de l’entreprise (évaluation par le maitre de stage) :  </p>
+<ul>
+  <li>Etudes de marché :  évaluation de l‘organisation du travail et des outils utilisés (méthodes, outils, …) ; organisation de la collecte multi canal de données (qualité des documents recueillis, canal, …)  ; pertinence des analyses ; évaluation des bilans ; estimation des propositions ou des prospectives.  </li>
+  <li>Analyses de tendances et des usages concernant le domaine de l’entreprise : évaluation de l’organisation du travail et des outils utilisés ; organisation de la collecte multi -canal de données ; pertinence des analyses ; évaluation des bilans ; estimation des propositions ou des prospectives.  </li>
+  <li>Conduite de la définition du processus service/relation client :  évaluation de l’organisation du travail (ordonnancement des tâches) et des outils utilisés ; capacité à conduire et traiter un dossier consommateur ; capacité relationnelle dans le traitement des réclamations.</li>
+</ul>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34362BC02</CODE>
+				<LIBELLE><![CDATA[Elaborer un plan marketing]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Définir les actions opérationnelles à mettre en œuvre  :</strong> </p>
+<ul>
+  <li>Prendre en compte les éléments constitutifs de la stratégie de l’entreprise :<br>
+<em>- Intégrer les objectifs, les contraintes, l’environnement et les facteurs clé de succès de l’entreprise (à l’issue du SWOT),<br>
+- Etablir une segmentation clients, catégoriser des typologies de prospects,<br>
+- Participer à l’élaboration d’une stratégie de positionnement concurrentielle (différenciation),<br>
+- Définir des axes de création de valeur en déclinant les éléments du mix-marketing,<br>
+- Mettre en œuvre les outils permettant de piloter la stratégie marketing et en mesurer les impacts organisationnels, sociaux et économiques.<br>
+</em></li>
+  <li>Décliner la stratégie en actions opérationnelles :<br>
+<em>- Rédiger et mettre en forme une recommandation marketing argumentée pour présenter les actions choisies,<br>
+- Construire l’organisation commerciale sur le territoire : intégrer les réseaux de distribution ; définir la dimension de la force de vente ; élaborer le Plan d’Actions Commerciales.<br>
+</em></li>
+  <li>Etablir le budget et le plan de financement prévisionnel d’une action :<br>
+<em>- Etablir un budget prévisionnel accompagné de tableaux de bord,  <br>
+- Justifier les investissements, argumenter les délais et projeter la rentabilité des actions.<br>
+</em></li>
+  <li>Intégrer les exigences juridiques dans le cadre du plan marketing et des actions commerciales :<br>
+<em>- Prendre en compte les contraintes juridiques liées au contexte publi-promotionnel,<br>
+- Connaître les différents schémas de fonctionnement de la distribution et les obligations liées à chacune,<br>
+- Maîtriser le dispositif commercial en fonction des différents statuts juridiques (environnement international).</em><br>
+<br>
+</li>
+</ul>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p><strong>1- Modalités d'évaluation à l'école grâce à une études de cas sous forme d’une synthèse écrite et d’une soutenance orale :</strong>  </p>
+<ul>
+  <li>  Rapport de diagnostic d’entreprise à partir d’un dossier constitué.   </li>
+</ul>
+<p>L'objectif  est d' évaluer :</p>
+<p><em>- la capacité d’analyse,  <br>
+- la pertinence de l’analyse qualitative et quantitative,<br>
+- la pertinence des résultats,  <br>
+- la rédaction du document.</em></p>
+<p><br></p>
+<ul>
+  <li>Dossier de propositions stratégiques de mise en commercialisation d’un service ou produit (propositions rendues sous forme écrite et orale)</li>
+</ul>
+<p>L'objectif est d' évaluer :</p>
+<p><em>- la capacité d’analyse,  <br>
+- la pertinence de l’analyse qualitative et quantitative,<br>
+- la pertinence des résultats,  <br>
+- la rédaction du document.</em></p>
+<ul>
+  <li>Réalisation d’un plan de financement pour un produit nouveau. </li>
+</ul>
+<p>L'objectif est d' évaluer :</p>
+<p><em>- la capacité d’analyse, <br>
+- la pertinence de l’analyse qualitative et quantitative,<br>
+- la pertinence des résultats,  <br>
+- la rédaction du document.</em></p>
+<p><br></p>
+<p><strong>2- Modalités d'évaluation des projets réalisés sur demande de l’entreprise caractérisée par soit un rapport écrit et/ou une présentation orale au sein de l’entreprise (évaluation par le maitre de stage) :</strong>  </p>
+<ul>
+  <li>Réaliser un diagnostic au sein de l’entreprise, soit :<br>
+<em>- Analyser des enjeux industriels, économiques et sociaux de l’entreprise : positionnement de l’entreprise dans son environnement et contraintes associées (concurrence, globalisation, …)<br>
+- Explorer la stratégie et le management de l’entreprise et ses implications dans les domaines concernés : les produits et services proposés, les marchés, les processus, les règles de gestion, de marketing et de gestion financière, ….<br>
+- Analyser la situation de l’entreprise en prenant en considération les impératifs et les contraintes des fonctions, en particulier : la finance, le marketing, la recherche, le développement et production.<br>
+- Evaluer les risques que l’entreprise encourt (techniques, commerciaux, financiers et sociaux).  </em><br>
+</li>
+  <li>Etablir des propositions pouvant être intégrées dans une politique/stratégie en rapport avec la commercialisation d’un produit ou service : proposition d’orientations aux décideurs.<br>
+ </li>
+  <li>Conception et mise en œuvre d’une action de communication associée à un produit (ou un service) innovant :<br>
+<em>- Documents, traces ou témoignages d’une information et/ou d’une communication :<br>
+- Compréhension du rôle des interlocuteurs concernés.<br>
+- Argumentation de la communication maîtrisée sur le fond et sur la forme.<br>
+- Aménagement des supports : storytelling, affiches, …  </em><br>
+</li>
+  <li>Plan de financement pour un produit ou un service.  <br>
+</li>
+  <li>Analyse d’une stratégie en tenant compte des obligations législatives, réglementaires et normatives applicables au domaine <br>
+  <em> -Référentiels législatifs, réglementaires et normatifs appliqués par l’entreprise.<br>
+- Méthodologie d’analyse des textes réglementaires<br>
+- Conception et structuration d’une veille scientifique, réglementaires, normative, technologique : identification des différentes sources, collecte et interprétation des données  et analyse et structuration des informations.</em></li>
+</ul>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34362BC03</CODE>
+				<LIBELLE><![CDATA[Concevoir des actions marketing]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Participer à la création d’activités marketing et commerciales </strong></p>
+<ul>
+  <li>Conduire des ateliers de créativité :<br>
+<em>- Identifier des innovations potentielles dans le champ des pratiques, des processus ou des marchés de l’entreprise et être force de proposition,<br>
+- Solliciter et renforcer le potentiel collectif créatif en organisant des séances de réflexion collective,<br>
+- Animer des ateliers graphiques pour un nouveau produit ou service,<br>
+- Animer des ateliers vidéo pour alimenter un site internet ou faire la promotion d’un nouveau produit ou service.<br>
+</em></li>
+  <li>Exploiter le e-marketing en back office :<br>
+<em>- Anticiper les nouveaux usages des outils du web marketing et du e-commerce,<br>
+- Concevoir et élaborer un cahier des charges d’un projet multicanal<br>
+- Concevoir un site internet : cahier des charges, arborescence, ergo, fonctionnalité, testing, référencement, affiliation, réseaux sociaux, e-paiement,<br>
+- Participer au développement d’applications mobiles multi plates-formes,<br>
+- Optimiser le référencement naturel (SEO) et payant (SEM) d’un site.<br>
+</em></li>
+  <li>Intégrer le e-marketing en front office dans les approches commerciales :<br>
+<em>- Développer et animer les outils « réseaux sociaux » avec les sujets d’actualité et en cohérence avec le plan marketing,<br>
+- Diffuser l’identité de la marque sur internet,<br>
+- Développer des outils digitaux au service des commerciaux.</em></li>
+</ul>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p><strong>L1- Modalités d'évaluation à l'école grâce à une études de cas sous forme d’une synthèse écrite et d’une soutenance orale :  </strong></p>
+<ul>
+  <li>Animation d’un atelier de création pour la réalisation d’un produit ou service :</li>
+</ul>
+<p>L'objectif est d'évaluer :   <br>
+<em>- Le  scenario de l’atelier,<br>
+- L'organisation de l’atelier (animation, méthode, …),<br>
+- La rédaction d’un bilan de propositions créatives.  </em><br>
+</p>
+<ul>
+  <li>Réalisation d’un cahier des charges d’un site internet :  </li>
+</ul>
+<p>L'objectif est d'évaluer :<br>
+<em>- Les capacités d'organisation et de planification des grands axes de réalisation,<br>
+- Les propositions des clauses techniques d’un site,<br>
+- La rédaction du document.  </em><br>
+</p>
+<ul>
+  <li>Réalisation d’un site internet et ses caractéristiques responsive.</li>
+</ul>
+<p>L'objectif est d'évaluer :  <br>
+<em>- L'organisation de la conception et  le suivi du cahier de charges,<br>
+- L'ordonnancement des tâches,<br>
+- Le respect des délais,<br>
+- La qualité du site et de ses fonctionnalités,<br>
+- L'évaluation des contenus (visuels et rédactionnels).<br>
+</em></p>
+<p><strong>2- Modalité d'évaluation des Projets réalisés sur demande de l’entreprise caractérisée par soit un rapport écrit et/ou une présentation orale au sein de l’entreprise (évaluation par le maitre de stage) :  </strong></p>
+<ul>
+  <li>Conception d’un site et/ou la mise en place d’une solution logicielle en relation avec les besoins de l’entreprise :<br>
+<em>- Evaluation de l’organisation du travail et des outils utilisés,<br>
+- Organisation de la rédaction des clauses techniques du cahier des charges,<br>
+- Pertinence des analyses,<br>
+- Evaluation des bilans et des solutions proposées,<br>
+- Qualité de la conception du site.  </em><br>
+</li>
+  <li>Maîtrise d’ouvrage pour le développement d’outils du Marketing digital pour renforcer la visibilité de l’entreprise (Benchmarking des outils informatiques disponibles, analyse des meilleurs produits et des améliorations possibles) :<br>
+<em>- Organisation de la recherche et de la veille,<br>
+- Organisation de la rédaction des clauses techniques du cahier des charges,<br>
+- Pertinence des analyses,<br>
+- Evaluation des bilans et des solutions proposées.   </em><br>
+</li>
+  <li>Ergonomie d’une solution logicielle choisie en relation avec le client :  <br>
+<em>- Organisation de l’équipe projet,<br>
+- Pertinence des données et des analyses auprès des clients et des experts,<br>
+- Evaluation des bilans et des solutions proposées,<br>
+- Mise en production des solutions.</em></li>
+</ul>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34362BC04</CODE>
+				<LIBELLE><![CDATA[Piloter des actions marketing]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Intégrer le management d’un projet et assurer la relation à la maîtrise d’ouvrage :</strong>  </p>
+<ul>
+  <li>Piloter un projet Marketing :<br>
+<em>- Constituer l’équipe projets,<br>
+- Planifier le déroulement du projet et allouer les ressources matérielles et humaines nécessaires,<br>
+- Négocier l’achat de prestations de service ou de production marketing,<br>
+- Suivre la réalisation et assurer la cohérence avec les objectifs définis,<br>
+- Evalue,  justifier et maitriser les coûts, délais, qualité et risques d’un projet.</em><br>
+</li>
+  <li>Manager une équipe pluri-disciplinaire :<br>
+<em>- Intégrer la dimension organisationnelle dans la conduite d’une équipe projet,<br>
+- Assurer l’interface entre les services commerciaux, techniques, comptables et logistiques,<br>
+- Etablir des relations privilégiées avec les partenaires externes tels que les agence média.</em><br>
+</li>
+  <li>Maitriser l’anglais dans un contexte professionnel :<br>
+<em>- Percevoir les différentes « postures culturelles » qui peuvent apparaître au sein d’une équipe internationale,<br>
+- Conduire et/ou participer à un entretien en anglais (dialoguer avec des fournisseurs à l’étranger, négocier et sécuriser ses interlocuteurs),<br>
+- S’adapter à différentes méthodes de travail dans un contexte international.</em></li>
+</ul>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p><strong>1- Modalités d'évaluation à l'école grâce à une étude de cas réalisées sous forme d’un projet en équipe sous forme d’une synthèse écrite et d’une soutenance orale : </strong></p>
+<p><strong>L'objectif est d'évaluer :</strong></p>
+<ul>
+  <li>Les capacités d'organisation et d'animation de l’équipe </li>
+  <li>Les outils choisis  </li>
+  <li>La méthodologie appliquée </li>
+  <li>La qualité de l’analyse, résultats et bilans </li>
+  <li>L'évaluation de la rédaction du dossier </li>
+  <li>L'évaluation de la restitution orale.<br>
+</li>
+</ul>
+<p><strong>2- Modalités d'évaluation grâces aux projets réalisés sur demande de l’entreprise caractérisée par soit un rapport écrit et/ou une présentation orale au sein de l’entreprise (évaluation par le maitre de stage) : </strong>  </p>
+<ul>
+  <li>Gestion et pilotage d’un projet :  <br>
+- Organisation du projet (organigramme des tâches)<br>
+- Processus projet (jalons, cycle de vie, réseau PERT)<br>
+- Gestion des délais (planning, diagramme de Gantt, marges)<br>
+- Gestion des ressources<br>
+- Gestion et argumentation des coûts<br>
+- Utilisation maitrisée des progiciels</li>
+</ul>
+<p>Objectif est d'évaluer les capacités d'organisation et de gestion de projet ainsi que la maitrise des logiciels adaptés</p>
+<p><br></p>
+<p><br></p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34362BC05</CODE>
+				<LIBELLE><![CDATA[Contrôle et évaluation des actions Marketing]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Evaluer la performance des actions et la maturité des pratiques :</strong></p>
+<ul>
+  <li>Contrôle des activités marketing et commerciales :<br>
+<em>- Comprendre et appréhender les différents outils de mesure d’une activité (analyse de données lié au trafic…),<br>
+- Juger l’efficience de l’organisation des tâches et apprécier l’exécution des processus,<br>
+- Evaluer la satisfaction des clients (externes),<br>
+- Elaborer des indicateurs clés et concevoir des tableaux de bord,<br>
+- Etablir un résultat comptable d’exploitation et analyser les écarts,<br>
+- Réaliser et présenter le bilan d’une action,<br>
+- Evaluer l’efficacité de l’agence média et des autres prestataires mobilisés.<br>
+</em></li>
+  <li>Evaluer la performance et la maturité des pratiques :<br>
+<em>- Exploiter les bilans des campagnes et mettre en place les recommandations et les mesures correctives nécessaires,<br>
+- Mesurer le niveau de satisfaction relation client-entreprise et identifier les attentes non satisfaites.</em></li>
+</ul>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p><strong>1- Modalités d'évaluation à l'école grâce à une étude de cas sous forme d’une synthèse écrite et d’une soutenance orale : </strong> </p>
+<ul>
+  <li>Réalisation d’un « reporting » et d’une présentation de résultats d’activités au regard d’un dossier d’entreprise                                    L'objectif  est d'évaluer :<br>
+<em>- La capacité d’analyse,  <br>
+- La pertinence de l’analyse qualitative et quantitative,<br>
+- La pertinence des résultats,  <br>
+- La rédaction du document.</em>  <br>
+</li>
+  <li>Etablissement d’un plan de tests utilisateurs suivant une demande formulée par une entité tiers (entreprise, laboratoire, site internet).   L'objectif est d'évaluer : <em>-La capacité d’analyse,                                                                                        -La pertinence de l’analyse qualitative et quantitative,                                 -La pertinence des résultats,                                                                        -La rédaction du document .</em>   <br>
+</li>
+  <li>Evaluation des risques de mise en ligne d’un service d’échanges d’informations confidentielles ou de paiement en ligne.<br>
+L'objectif est d'évaluer :                                                                                -La capacité d'analyse,                                                                                       -La pertinence de l'analyse qualitative et quantitative,                               -La pertinence des résultats,                                                                            -La rédaction du document.</li>
+</ul>
+<p> </p>
+<p><strong>2- Modalités d'évaluation grâce aux Projets réalisés sur demande de l’entreprise caractérisée par soit un rapport écrit et/ou une présentation orale au sein de l’entreprise (évaluation par le maitre de stage) : </strong> </p>
+<ul>
+  <li>Conception, diffusion et mise à jour des indicateurs et des tableaux de bord  :<br>
+<em>- Description des indicateurs : nature, objectifs, niveau, tendances par rapport au secteur de référence…<br>
+- Choix, pertinence et interaction des indicateurs : efficacité et efficience du système de management,<br>
+- Mise en place et suivi des tableaux de bord relatifs au système de management,<br>
+- Analyse des résultats par rapport aux objectifs,<br>
+- Connaissance des systèmes d’information et liens avec les aspects en rapport avec les risques,<br>
+- Prise en compte de la communication dans les travaux de conception et de diffusion.</em><br>
+</li>
+  <li>Préparation d’une réunion de direction suivant les critères établis par l’entreprise :<br>
+<em>- Réalisation de l’ordre du jour,  <br>
+- Pertinence du travail sur les bilans,<br>
+- Evaluation des prospectives  .</em><br>
+</li>
+  <li>Définition ou Réalisation d’un projet de mise en ligne sécurisée d’échanges d’information entre services ou de E – paiement:<br>
+<em>- Organisation de l’équipe projet,<br>
+- Pertinence des données et des analyses auprès des clients et des experts,  <br>
+- Evaluation des bilans et des solutions proposées . Mise en production des solutions.<br>
+</em></li>
+  <li>Organisation de travaux avec (ou auprès) des clients (sous forme de projets) pour développer des opportunités de projets de produits et/ou services (innovants ou non). <br>
+</li>
+  <li>Réalisation et Exploitation de campagnes auprès des clients : bilans, propositions, …<br>
+</li>
+  <li>Réalisation d’un « Testing » de site internet :  <br>
+<em>- Organisation de l’équipe projet,<br>
+- Pertinence des données et des analyses auprès des clients et des experts,<br>
+- Evaluation des bilans et des solutions proposées,<br>
+- Mise en production des solutions.</em></li>
+</ul>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+		</BLOCS_COMPETENCES>
+		<OBJECTIFS_CONTEXTE><![CDATA[<p>« Aujourd’hui pour garder un client, les entreprises doivent faire en sorte qu’il soit plus que satisfait  en personnalisant la relation et en étant vraiment à son écoute. » </p>
+<p>Les entreprises doivent être plus innovantes dans la conception et la commercialisation des produits et services. Nous nous situons dans l’ère de la personnalisation et de la « servicisation » qui crée de la valeur à condition de répondre à la demande croissante de commodité, de maîtrise des délais, de proximité, de choix, de prix attractif et de sécurité.</p>
+<p>« L’ère numérique est celle des innovations d’organisation et de distribution. »</p>
+<p>Le numérique accroît le rythme de l’innovation ainsi que le nombre de vecteurs susceptibles de générer cette innovation. Si le brevet était caractéristique de l’innovation « produit », la nouvelle économie est plutôt guidée par des innovations d’organisation et de distribution. Dans ce contexte la valeur est coconstruite avec le client.</p>
+<p>L’étude des comportements d’achat et de la satisfaction des consommateurs permettent une interaction entre la marque et le client. Aujourd’hui, ces études sont réalisées en temps réel grâce aux fonctionnalités du « digital ».</p>
+<p>Ces données s’imposent à l’entreprise dans : </p>
+<ul>
+  <li>les stratégies commerciales ou de développement qui nécessitent de créer de la valeur à partir de facteurs « différenciants » dans un marché international et avec une concurrence croissante. </li>
+  <li>l’irruption des technologies numériques, les canaux de la relation client digitalisés et l’évolution des habitudes de consommation qui obligent à revisiter ses processus pour la construction d’une relation directe avec le client. </li>
+  <li>l’amélioration de sa performance fondée sur une réorganisation des étapes de la chaîne de la valeur pour accroître ou apporter la même qualité de service dans un contexte de ressources contraintes.  </li>
+</ul>
+<p>Ces développements ont eu trois autres effets majeurs sur le métier du Responsable de Projets en Marketing : </p>
+<ul>
+  <li>l’explosion de la collecte, du traitement, de l’analyse et du commerce des informations sur les consommateurs, réunies en de nombreuses banques de données, le bigdata ; </li>
+  <li>l’apparition de stratégies multicanales permettant de multiples combinaisons pour le dialogue avec le client/utilisateur : stratégies de Web to store, marketing mobile etc...</li>
+  <li>l’accès à l’outil informatique ouvrant à moindre frais les techniques du Marketing aux PME. </li>
+</ul>
+<p>Le Responsable de Projets en Marketing exerce son métier : </p>
+<ul>
+  <li>comme salarié dans l’entreprise,  </li>
+  <li>dans l’organisation utilisatrice des méthodes de marketing,  </li>
+  <li>chez un prestataire en marketing (agence de communication, agence marketing, prestataire en bases de données…).  </li>
+</ul>
+<p>Le métier du Responsable de Projets en Marketing consiste à organiser la relation entre l’entreprise et ses différents clients (ou prospects), en vue de comprendre ses comportements, de le conquérir et de le fidéliser.  </p>
+<p>Pour cela, il met en œuvre des activités :</p>
+<ul>
+  <li>pour organiser l’écoute des clients et évaluer leur satisfaction  </li>
+  <li>d’étude de nature psychosociologique, comportementale, statistique, financière </li>
+  <li>opérationnelles marketing (publipostage, e-mailing, phoning, cartes de fidélité, catalogues, sites de e-commerce, campagnes sms, blogs, animations de réseaux sociaux, enquêtes client ou prospects, etc…)</li>
+</ul>]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>19515</ID_FICHE>
+		<NUMERO_FICHE>RNCP34333</NUMERO_FICHE>
+		<INTITULE><![CDATA[Manager opérationnel de business unit]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<FORMACODES>
+			<FORMACODE>
+				<CODE>32024</CODE>
+				<LIBELLE><![CDATA[ gestion centre profit]]></LIBELLE>
+			</FORMACODE>
+		</FORMACODES>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV6</NIVEAU>
+			<INTITULE>niveau6</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>310m</CODE>
+				<INTITULE><![CDATA[Spécialités plurivalentes des échanges et de la gestion]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>35272448800015</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[ETUDES SUPERIEURES APPLIQUEES AUX AFFA]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<PARTENAIRES>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[TALIS EDUCATION GROUP]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>40138481300044</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[INSTITUT SUP FORMATION FRUITS LEGUMES]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>39282033800029</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[PRIISME]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>79180790200014</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[AUVERGNE FORMATION]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>52425048700013</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[ASS REGIONAL INTERPRO APPRENTI AQUITAINE]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>41387086600089</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[CONFOR-PME]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>49366410600017</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[ARTEMYS]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>48879238300025</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[IFC GROUP]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>53328704100016</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+			<PARTENAIRE>
+				<NOM_PARTENAIRE><![CDATA[A 3 D]]></NOM_PARTENAIRE>
+				<SIRET_PARTENAIRE>48180466400011</SIRET_PARTENAIRE>
+				<HABILITATION_PARTENAIRE>HABILITATION_FORMER
+				</HABILITATION_PARTENAIRE>
+			</PARTENAIRE>
+		</PARTENAIRES>
+		<ACTIVITES_VISEES><![CDATA[<p>  Ayant une parfaite connaissance de son secteur, des produits et/ou des prestations délivrées par son unité, ses actions sont centrées sur le développement de ceux-ci, d’un point de vue stratégique et financier.  En fonction de la politique définie par la direction générale, il/elle organise le fonctionnement de son entité, définit la stratégie de développement opérationnel et le plan d’actions commercial à mener, pilote les dimensions liées au marketing et à la communication, et gère la politique de vente, d’achat et de gestion des stocks.  Responsable juridiquement, il/elle veille au respect des réglementations en vigueur dans la gestion de toutes ses activités et le management du personnel. Il/elle assure la gestion budgétaire, financière et administrative de sa structure, met en œuvre les actions correctrices nécessaires à l’atteinte des objectifs fixés et rend compte de son activité et des résultats atteints à la direction générale. Le/la Manager opérationnel(le) de Business Unit a une vision globale sur l’ensemble des activités qu’il/elle supervise, aidé/e par une équipe pouvant être constituée de quelques collaborateurs à plusieurs dizaines de salariés.  Il/elle constitue et développe un portefeuille clients, et veille au maintien d’un réseau de partenaires, de fournisseurs, de sous-traitants ou d’intermédiaires, qui contribuent de façon directe ou indirecte au développement de son activité Au regard des objectifs commerciaux qu’il/elle doit atteindre, il/elle fidélise ses cibles afin de sécuriser son chiffre d’affaires. Attentif/ve au marché et aux évolutions impactant sur ses prestations et sur les comportements des publics, il/elle peut être amené/e à concevoir et commercialiser de nouvelles offres.  Il/elle développe et pérennise une relation de confiance avec ses clients, auprès de qui il/elle se positionne en tant que conseil afin de leur proposer des solutions adaptées à leurs besoins.  </p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>  - Elaborer une stratégie et un plan d’action favorables au développement du centre de profit, en accord avec la politique de l’entreprise - Déployer des actions à mettre en œuvre, l’attribution des moyens, la planification, le suivi et l’ajustement des actions - Gérer budgétairement, financièrement et administrativement les actions à mener en cas d’écarts entre les objectifs et les résultats - Constituer un réseau de partenaires fiables et de qualité pouvant soutenir le développement de l’activité - Organiser une veille attentive sur le secteur, la concurrence, les tendances du marché favorables au développement de l’activité - Encadrer et animer l’équipe et organiser ses missions, en fonction des projets à conduire et en contrôlant la bonne réalisation  </p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>  Le/la Manager opérationnel(le) de Business Unit, exerce son activité dans tout type de secteur relevant du secteur marchand, de celui de la production ou de la prestation de services : agence, magasin, centre...</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>  Chef(fe) d'agence – Responsable de centre de profit – Responsable d’entité - Directeur / Directrice de centre de profit - Directeur adjoint / Directrice adjointe de PME/PMI – Directeur /Directrice d’agence - Responsable d'agence  – Business Manager - Responsable de Petite ou Moyenne Entreprise -PME-   </p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>M1302</CODE>
+				<LIBELLE><![CDATA[Direction de petite ou moyenne entreprise]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[<p>sans </p>]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<p>  5 personnes au minimum : 1 président professionnel extérieur à l’établissement, 3 professionnels du secteur non intervenants dans l’établissement, le responsable pédagogique  </p>]]></JURY_FI>
+		<SI_JURY_CA>Oui</SI_JURY_CA>
+		<JURY_CA><![CDATA[<p>  5 personnes au minimum : 1 président professionnel extérieur à l’établissement, 3 professionnels du secteur non intervenants dans l’établissement, le responsable pédagogique  </p>]]></JURY_CA>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>  5 personnes au minimum : 1 président professionnel extérieur à l’établissement, 3 professionnels du secteur non intervenants dans l’établissement, le responsable pédagogique  </p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>  5 personnes au minimum : 1 président professionnel extérieur à l’établissement, 3 professionnels du secteur non intervenants dans l’établissement, le responsable pédagogique  </p>]]></JURY_CQ>
+		<SI_JURY_CL>Non</SI_JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>  5 personnes au minimum : 1 président professionnel extérieur à l’établissement, 3 professionnels du secteur non intervenants dans l’établissement, le responsable pédagogique  </p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<DATE_PREMIER_JO>05/03/2013</DATE_PREMIER_JO>
+		<STATISTIQUES_PROMOTIONS>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2018</ANNEE>
+				<NOMBRE_CERTIFIES>18</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>0</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>94</TAUX_INSERTION_GLOBAL_6MOIS>
+			</STATISTIQUES_PROMOTION>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2017</ANNEE>
+				<NOMBRE_CERTIFIES>18</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>3</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>94</TAUX_INSERTION_GLOBAL_6MOIS>
+				<TAUX_INSERTION_METIER_2ANS>83</TAUX_INSERTION_METIER_2ANS>
+			</STATISTIQUES_PROMOTION>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2016</ANNEE>
+				<NOMBRE_CERTIFIES>20</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>2</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>90</TAUX_INSERTION_GLOBAL_6MOIS>
+				<TAUX_INSERTION_METIER_2ANS>75</TAUX_INSERTION_METIER_2ANS>
+			</STATISTIQUES_PROMOTION>
+		</STATISTIQUES_PROMOTIONS>
+		<LIEN_STATISTIQUES><![CDATA[<p>  www.talis-bs.com    </p>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>18/11/2024</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<BLOCS_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34333BC05</CODE>
+				<LIBELLE><![CDATA[Encadrer son équipe]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p> En organisant le travail à produire selon les projets à conduire et en contrôlant la réalisation des activités, encadrer une équipe de travail en favorisant l’implication de chacun et le développement des compétences. </p>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p> - mise en situation professionnelle collective et individuelle à l’écrit et à l’oral sur les modalités de fonctionnement d’une équipe : les modalités de fonctionnement d’une équipe doivent présenter : la répartition des activités ; les modalités de suivi et de contrôle ; une action de mobilisation ; la gestion d’un problème ; un guide d’entretien d’évaluation. </p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34333BC01</CODE>
+				<LIBELLE><![CDATA[Analyser la stratégie et assurer la veille concurrentielle]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p>  Avoir la capacité d'analyser le marché et la concurrence ; de mettre en œuvre une fonction de veille concurrentielle ; d'identifier les potentialités de son secteur et les facteurs sur lesquels agir, notamment au niveau commercial ; de choisir les projets à conduire et de définir la stratégie à mettre en œuvre.  </p>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p>  - rapport stratégique à présenter en groupe ; soutenance orale individuelle et collective : l'analyse et le développement de la stratégie doivent permettre de mettre en évidence le positionnement sur zone, les potentialités, la stratégie, l’argumentation du choix et les projets. La veille sur le marché et la concurrence se traduit par : les modalités de sa mise en œuvre, le repérage d’une évolution, l’analyse de ses conséquences sur son positionnement et les nouvelles offres à proposer.  </p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34333BC02</CODE>
+				<LIBELLE><![CDATA[Déployer des plans d’actions]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p> En cohérence avec la stratégie définie, déployer les actions à mettre en œuvre en organisant leur planning général, en répartissant l’allocation des moyens pour assurer le développement de l’activité de son unité, et en définissant les modalités de suivi et d’ajustement des actions. </p>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p> - étude de cas en équipe sur le déploiement d’une action et de son planning : la définition et le planning des actions à conduire doivent présenter la hiérarchisation des actions et leur planification ; une action opérationnelle doit présenter les objectifs, les moyens, le budget, les modalités de suivi et la gestion d’un problème. </p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34333BC03</CODE>
+				<LIBELLE><![CDATA[Développer son réseau de partenaires]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p> En constituant un réseau avec les différents acteurs implantés sur sa zone, développer les relations avec ceux-ci et l’environnement, afin de contribuer au développement de son activité, d’améliorer la qualité de ses prestations et de trouver des solutions partenariales face aux problèmes pouvant survenir. </p>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p>     - établissement   d’une cartographie des principaux acteurs, analysant le positionnement de   chacun, ses forces et ses limites : le repérage des acteurs positionnés   au niveau local présentant les principaux acteurs et leurs activités, leur   positionnement, l’aide qu’ils peuvent apporter, les problèmes qu’ils peuvent   contribuer à résoudre. Un contrat de prestations doit présenter les différents items du contrat et les clauses   et leur analyse critique.     </p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34333BC04</CODE>
+				<LIBELLE><![CDATA[Assurer la gestion budgétaire, financière et administrative d’une entité]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p> En suivant l’activité de son entité, gérer les dimensions budgétaires, financières et administratives en vérifiant la fiabilité des comptes, en effectuant les démarches administratives obligatoires, et en décidant des actions à mener au regard des écarts constatés entre les objectifs prévisionnels et les résultats atteints. </p>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p> - dossier individuel d’analyse financière de l’activité : l’analyse financière de l’activité doit présenter la vérification des comptes, l’analyse des écarts entre prévisionnel et réalisé, les hypothèses explicatives, les actions correctrices à mettre en œuvre, l’établissement d’un budget prévisionnel. L’analyse d’une réglementation propre à son secteur d’activité doit présenter les obligations à respecter, les conséquences sur l’organisation, les documents à établir. </p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+		</BLOCS_COMPETENCES>
+		<OBJECTIFS_CONTEXTE><![CDATA[<p>  La formation « Manager opérationnel(le) de Business Unit » fut à l’origine une réponse à un besoin d’emploi de professionnels qualifiés, identifié au sein même des entreprises, des organisations et unions patronales. Organisées en "Business Units", de plus en plus d'entreprises sont aujourd’hui à la recherche de responsables de centres de profit. La moitié des emplois se trouve dans les TPE/PME (moins de 250 salariés) contrairement à certaines idées reçues. Il y a un nombre très important de ces petites structures ; pour diriger toutes ces plus petites structures ainsi que les services ou département des grosses structures, il faut donc préparer au mieux et en nombre certain des managers autonomes et pluridisciplinaires.   Le/la Manager opérationnel(le) de Business unit est :  - Un(e) « performeur/euse » : son objectif premier est toujours de maximiser le chiffre d’affaires de sa BU. Très axé(e) business, il/elle a, « sans être expert, un socle important de compétences en gestion et en management (analyse financière, conduite du changement, gestion de projets) ».  - Un(e) opérationnel(le) : s’il/elle peut être expert(e) dans un domaine clé (vente, finance, marketing, …), il/elle est extrêmement polyvalent(e), disponible, agile et empathique. « Ce n’est pas un stratège mais c’est lui qui décline, fait vivre et adapte la stratégie de son Groupe aux réalités de sa BU ». Il est doté d’une réelle liberté de moyens pour atteindre ses objectifs. - Un(e) ambassadeur/rice : il/elle remplit ce rôle dans et hors de sa BU en en assurant la visibilité auprès des gros clients mais aussi des partenaires commerciaux et de la DG. - Un(e) entrepreneur(e) : entité économique autonome mais pas indépendante, la BU est une entreprise à échelle réduite. A ce titre, son/sa manager s’inscrit dans une logique intrapreneuriale de plus en plus appréciée des entreprises - Un(e) dirigeant(e) effectif(ve) ou potentiel(le) : « Le manager de BU et le DG ont beaucoup de qualités en commun : commencer dans une BU permet de tester ses aptitudes de top manager sur un périmètre plus réduit et donc moins risqué ».  </p>]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2808</ID_FICHE>
+		<NUMERO_FICHE>RNCP20613</NUMERO_FICHE>
+		<NOUVELLE_CERTIFICATION>RNCP34938</NOUVELLE_CERTIFICATION>
+		<INTITULE><![CDATA[CQP Accrocheur - rigger]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV4</NIVEAU>
+			<INTITULE>niveau4</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3226</NUMERO>
+			<LIBELLE><![CDATA[Entreprises artistiques et culturelles]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>230s</CODE>
+				<INTITULE><![CDATA[Construction de décors de spectacle]]></INTITULE>
+			</NSF>
+			<NSF>
+				<CODE>323t</CODE>
+				<INTITULE><![CDATA[Réalisation du service]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission paritaire nationale de l'emploi et de la formation du spectacle vivant (CPNEF-SV) - Association de gestion de la commission paritaire nationale de l’emploi et de la formation du spectacle vivant]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Pour les besoins d’un spectacle, l’accrocheur-rigger accroche, lève et décroche des matériels permettant l’installation d’appareillages (lumière, son, vidéo, décor…), d’agrès ou de personnes (artiste en vol…). Pour réaliser sa mission, l’accrocheur-rigger exerce des fonctions de préparation et d’organisation, de traçage au sol et positionnement en hauteur, de montage et de démontage des matériels, de contrôle et de maintenance. Il travaille au sol et en hauteur à partir du cahier des charges et d’un plan d’accroche. Au sein d'une équipe, il gère toutes les installations en sécurité en respectant les normes et les règles de l’art. Il analyse la prestation d’accroche attendue. Il choisit, vérifie la disponibilité et l’état du matériel et prépare le matériel. Au sol, il procède au tracé métré des différents points d’accroche et du matériel à accrocher, positionne et adapte les matériels. En hauteur, il assure sa sécurité et celles des autres, recherche et choisit les points d’accroche et points d’accès, fait descendre les guindes depuis le gril vers les points du tracé au sol, fait remonter les élingues à partir des guindes en utilisant, si besoin, des poulies ou du matériel de levage, accroche les filins ou les élingues. Au sol en parallèle du travail en hauteur, il guide les riggers positionnés au sein du gril, procède à l’attache des élingues et à l’accroche des matériels de levage et éventuellement des structures. Il assure le contrôle de l’installation pendant et après l’installation.<br />Pendant le spectacle il participe aux opérations d’accroche/levage nécessaires. Après le spectacle il démonte en sécurité le matériel d’accroche. Tout au long du processus d’accroche-décroche, il coordonne son activité avec celle de ses collègues accrocheurs-riggers et celles des autres intervenants du spectacle ; il peut être amené à transmettre ses compétences.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p> •       ANALYSE - Mener une analyse juste d'une prestation d'accroche et d’une prestation de démontage, c’est-à-dire reformuler les différents aspects du lieu, mener des calculs avec justesse, rapidité, méthode, vérification, en déduire des solutions et établir des listes d’actions ou de matériel approprié<br />•       MANUTENTION - Manutentionner les matériels avec rapidité, en appliquant les règles de portage en sécurité, en obtenant un rangement ordonné des matériels dans les caisses et un positionnement ordonné des caisses sur le plateau ou dans le véhicule<br />•       TRACAGE & POSITIONNEMENT EN HAUTEUR - Tracer au sol et positionner en hauteur des points d’accroche en utilisant l'outil de traçage approprié, en produisant un traçage conforme au plan, lisible, précis, avec un usage approprié des signes conventionnels, avec méthode et capacité à détecter une erreur<br />•       MANIPULATION des matériels - Manipuler les matériels en faisant preuve d’opportunité et de pertinence de l'action, en choisissant le geste adapté et le matériel ou outillage adapté, en opérant avec concentration et méthode<br />•       SECURITE - Mettre en œuvre les règles de sécurité afin de concourir à la sécurité complète de soi-même, des autres intervenants et des utilisateurs futurs du lieu en faisant preuve de concentration, méthode, efficacité, rigueur<br />•       COMMUNICATION - Communiquer avec efficacité (intelligibilité et précision des formulations et mots utilisés à l'oral, opportunité et justesse des propos tenus, vérification que l'interlocuteur a compris ses propos, réactivité, se faire expliquer ce qu'on n'a pas compris)<br />•       CONTRÔLE - Appliquer une procédure, une méthode de contrôle</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>Spectacle vivant </p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Accorcheur-Rigger</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>L1506</CODE>
+				<LIBELLE><![CDATA[Machinerie spectacle]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[<p>Pour se présenter devant le jury et obtenir le CQP accrocheur-rigger, il faut être titulaire de :<br />- Préparation à l’habilitation électrique BS et BE manœuvre  ;<br />- Brevet de sauveteur-secouriste du travail en cours de validité.<br />Une formation au travail en hauteur est recommandée ; les organismes agréés y préparent.</p>]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>3 personnes, dont 1 professionnel de la branche du spectacle vivant représentant du collège salarié, dont 1 professionnel de la branche du spectacle vivant représentant du collège employeur, le responsable pédagogique de l’organisme agréé de formation au CQP et d’accompagnement à la VAE du CQP.<br />Soit 66% de personnes extérieures à l’autorité délivrant le CQP.</p>]]></JURY_FC>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>idem</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p></p>
+<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Accrocheur - rigger » avec effet au 29 novembre 2014, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<DATE_PREMIER_JO>29/11/2014</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2818</ID_FICHE>
+		<NUMERO_FICHE>RNCP9054</NUMERO_FICHE>
+		<NOUVELLE_CERTIFICATION>RNCP35002</NOUVELLE_CERTIFICATION>
+		<INTITULE><![CDATA[CQP Caviste en cave coopérative]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV4</NIVEAU>
+			<INTITULE>niveau4</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3604</NUMERO>
+			<LIBELLE><![CDATA[Caves coopératives vinicoles et leurs unions]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>221</CODE>
+				<INTITULE><![CDATA[Agro-alimentaire, alimentation, cuisine]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>30299070000031</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[CONFEDERATION DES COOPERATIVES VINICOLES DE FRANCE - VIGNERONS COOPERATEURS DE FRANCE]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission paritaire nationale de la convention collective des caves coopératives et leurs unions - Confédération des coopératives vinicoles de France]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Le caviste assure, en cave coopérative, les activités de maintenance de premier niveau du matériel, l'entretien des outils de production, la réalisation des opérations liées à la vendange et à la vinification. Il assure également les opérations de retiraison des produits et de vinification (levurage, assemblage, débourbage...).</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Le titulaires est capable de :<br />Mettre en conformité le matériel<br />Mettre aux normes d'hygiène<br />Affecter les différents lots de vendange<br />S'assurer de l'acheminement et loger en cuve<br />Accueillir les nouveaux arrivants<br />Organiser et distribuer le travail en cave<br />Superviser et contrôler la réalisation des activités<br />Evaluer et alerter en cas de problème<br />Traiter les moûts<br />Suivre la fermentation alcoolique et malo alcoolique<br />Traiter et suivre la post fermentation<br />Assurer la protection du poduit des agressions extérieures<br />Conduire les opérations de nettoyage, désinfection et/ou détartrage des cuves<br />Entretenir et réparer la tuyauterie<br />Assurer la surveillance et la maintenance du stock des produits oenologiques et d'entretien<br />Respecter les procédures et la démarche HACCP, préparer les produits à l'enlèvement<br />Conduire une filtration des vins<br />Préparer le produit à la mise en vente<br />Réaliser l'inventaire de la cuverie</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>A. Secteur d’activité et taille des entreprises ou services employeurs Le caviste exerce son activité dans le secteur de la coopération vinicole. La coopération vinicole représente environ 50 % de la production vinicole française. La plupart des entreprises concernées sont des entreprises  de moins de 10 salariés, implantées en territoire rural.<br />Les contraintes économiques et les évolutions du marché imposent à certaines régions de France comme le Languedoc-Roussillon, l’Aquitaine, la Champagne Ardenne, etc. des regroupements de coopératives ou des choix de développement de l’activité vers des processus de plus en plus industrialisés. Ce phénomène modifie progressivement la taille et l’organisation des entreprises (taille plus importante, activités concentrées sur un site …).<br />B. Responsabilité et autonomie caractérisant les types d’emploi ciblés <br />Le caviste exerce son activité sous la responsabilité d’un responsable hiérarchique (directeur, œnologue, maître de chai…). Il réalise la plupart des activités sur consigne de ces derniers. Pendant la période des vendanges, il peut gérer une équipe de saisonniers.</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Caviste Maître de chai</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>A1413</CODE>
+				<LIBELLE><![CDATA[Fermentation de boissons alcoolisées]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Le président est désigné par le comité de pilotage régional alternativement parmi les représentants du collège salarié et du collège employeur Jury : 4 membres <br />- 2 représentants du collège salarié <br />- 2 représentants du collège employeur</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>idem</p>]]></JURY_CQ>
+		<SI_JURY_CL>Oui</SI_JURY_CL>
+		<JURY_CL><![CDATA[<p>idem</p>]]></JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>idem</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 10 juillet 2009 publié au Journal Officiel du 21 juillet 2009 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé Certificat de qualification professionnelle Caviste en cave coopérative avec effet au 21 juillet 2009, jusqu'au 21 juillet 2014. Autorité responsable de la certification : Confédération des coopératives vinicoles de France</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p></p>
+<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Caviste en cave coopérative » avec effet au 21 juillet 2014, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>21/07/2009</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2810</ID_FICHE>
+		<NUMERO_FICHE>RNCP6036</NUMERO_FICHE>
+		<INTITULE><![CDATA[CQP Peintre anticorrosion.]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<INTITULE>Sans niveau – le positionnement dans le cadre de national
+				des certifications professionnelles est non déterminé</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3107</NUMERO>
+			<LIBELLE><![CDATA[Bâtiment et travaux publics]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>254</CODE>
+				<INTITULE><![CDATA[Structures métalliques (y.c. soudure, carrosserie, coque bateau, cellule avion)]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>78466864200019</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[FEDERATION FRANCAISE DU BATIMENT]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commissions paritaires nationales de l’emploi conjointes du bâtiment et des travaux publics (CPNE conjointes du BTP) - Fédération française du bâtiment (FFB)]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Le peintre anti corrosion réalise sur chantier ou en atelier, à partir des directives de sa hiérarchie et au sein d’une équipe, des opérations de traitement de surface: - prépare les surfaces à traiter, par décapage par projection d’abrasif sec ou humide ou d’autres substrats (grenaille métallique, sponge-jet,…) <br />- applique les revêtements de peinture (à la brosse, rouleau, pistolet) en toute épaisseur (liquide, auto-lissant, application de revêtement spéciaux, métallisation,…). <br />Responsable de la bonne exécution de travaux courants en peinture anti corrosion, il veille à son auto-contrôle et peut être amené ponctuellement à prendre certaines initiatives. Il exécute les travaux qui lui sont confiés dans le respect des règles professionnelles, de la Qualité, de la Prévention et de la Sécurité</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>les travaux de peinture anticorrosion sont réalisés lors de chantier qui peuvent être exécutés dans des conditions et milieux souvent complexes (travaux en hauteur, à l'extérieur, en milieu occupé..). ils requièrent une parfaite maîtrise des matériels à mettre en ouvre ainsi que la connaissance du procédé à utiliser dans le respect des règles d'assurance qualité et environnement. le chantier est généralement réalisé en petite équipe et il nécessite une pleine connaissance et application des consignes de Santé, Sécurité et Evironnement.</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>Les activités des entreprises de peinture industrielle sont issus aussi bien d’entreprises du secteur prive que public qui ont en commun des critères d’exigence et de qualité extrêmement précis :  Industrie : chimie, agro-alimentaire, pétrochimie, sidérurgie…     <br /> Ponts et ouvrages d’arts                   <br />  Energie nucléaire, Thermique     <br />  Transport (SNCF, RATP,…)- Equipements routiers - Marine, plate-forme off-shore – Equipements collectifs (pylônes, réservoirs, silos) – Equipements portuaires – Aéronautique…   </p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>ouvrier professionnel  peintre anticorrosion / niveau II - CCN des Ouvriers du  Bâtiment</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>H3404</CODE>
+				<LIBELLE><![CDATA[Peinture industrielle]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>la composition du jury est identique, quelle que soit la situation d'évaluation en fin de cursus ou en VAE. le jury nomme le président parmi ses membres, en début de séance.<br />Le jury est paritaire. Il est composé de 4 membres (1) issus du milieu professionnel de la PEINTURE INDUSTRIELLE, répartis comme suit : <br />- 2représentants employeurs, connaissant le métier de peintre anticorrosion <br />- 2 représentants salariés, connaissant le métier de peintre anticorrosion <br />Les professionnels, employeurs et salariés, membres du jury, sont désignés par le GEPI dans le cadre du dispositif d’évaluation des compétences requises par le CQP. ils apportent, notamment, la connaissance concrète des situations de travail.<br />(1)-Le jury peut être ramené exceptionnellement à 2 membres (1 représentant employeur – 1 représentant salarié) si le nombre réduit de candidats le justifiait. <br />-Aucun membre du jury ne peut voter pour un candidat de sa propre entreprise</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>idem</p>]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>idem</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 1er juillet 2008 publié au Journal Officiel du 6 juillet 2008 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé CQP Peintre anticorrosion, avec effet au 6 juillet 2008, jusqu'au 6 juillet 2013. Autorité responsable : Fédération Française du Bâtiment  (FFB).</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Peintre anticorrosion » avec effet au 6 juillet 2013, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>06/07/2008</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<br/> <a href = "http://www.gepi.fr">GEPI </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>5159</ID_FICHE>
+		<NUMERO_FICHE>RNCP32069</NUMERO_FICHE>
+		<ANCIENNE_CERTIFICATION>RNCP19199</ANCIENNE_CERTIFICATION>
+		<INTITULE><![CDATA[Préventeur en Risques professionnels, Santé au travail et Environnement]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV6</NIVEAU>
+			<INTITULE>niveau6</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>344r</CODE>
+				<INTITULE><![CDATA[Mise en oeuvre des règles d'hygiène et sécurité]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>39085013900010</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[GROUPE 3iL]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[GROUPE 3iL]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Ce professionnel est un spécialiste de la gestion des risques tant professionnels que pour l'environnement. Il analyse, préconise et gère tous les aspects liés à la sécurité des salariés, à la prévention des risques et à la protection de l'environnement aux niveaux techniques, réglementaires (installations classées, SEVESO), normatifs (ISO, OHSAS…) et financiers.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>En matière de sécurité du travail et de prévention des risques environnementaux, être capable de : - Analyser la stratégie de prévention de l'entreprise    <br /> - Mettre en œuvre la politique de prévention    <br /> - Animer et former les différents acteurs    <br /> - Assurer la veille documentaire et conseiller son entreprise</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[Les titulaires de la certification exercent leurs fonctions en toute autonomie dans des entreprises de taille moyenne ou dans les services sécurité de grandes entreprises, principalement industrielles ou de BTP. On les trouve également dans les services prévention de la fonction publique ou des services de santé au travail (SST) et dans les organismes certificateurs.]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[Coordinateur sécurité - Animateur de prévention ; Conseiller en prévention ; Responsable de service sécurité ou de service sécurité-environnement ; Responsable ou Animateur Hygiène, Sécurité, Environnement (HSE) ; Contrôleur de prévention (CRAM et MSA) ; Techniciens Supérieurs d’Etudes et de Fabrication et Ingénieurs d’Etudes et de Fabrication (TSEF et IEF du Ministère de la Défense) ; Coordinateurs Sécurité et Conseillers Régionaux en Prévention (COSEC et COREP de la SNCF) ; Consultants et/ou Formateurs en prévention des risques professionnels et protection de l'environnement.]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>H1301</CODE>
+				<LIBELLE><![CDATA[Inspection de conformité]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<p>Jury interdisciplinaire de 10 à 12 personnes compos& annuellement:<br />de représentants des institutionnels (DIRECCTE, DREAL, CARSAT, ARACT)<br />d'ingénieurs et de techniciens de prévention en fonction en entreprise,<br />de médecins du travail, de consultants en prévention des risques professionnels et protection de l'environnement</p>
+]]></JURY_FI>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Jury interdisciplinaire de 10 à 12 personnes compos& annuellement:<br /> de représentants des institutionnels (DIRECCTE, DREAL, CARSAT, ARACT)<br /> d'ingénieurs et de techniciens de prévention en fonction en entreprise,<br /> de médecins du travail, de consultants en prévention des risques professionnels et protection de l'environnemen</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Jury interdisciplinaire de 10 à 12 personnes compos& annuellement:<br /> de représentants des institutionnels (DIRECCTE, DREAL, CARSAT, ARACT)<br /> d'ingénieurs et de techniciens de prévention en fonction en entreprise,<br /> de médecins du travail, de consultants en prévention des risques professionnels et protection de l'environnemen</p>]]></JURY_CQ>
+		<SI_JURY_CL>Oui</SI_JURY_CL>
+		<JURY_CL><![CDATA[<p>Jury interdisciplinaire de 10 à 12 personnes compos& annuellement:<br /> de représentants des institutionnels (DIRECCTE, DREAL, CARSAT, ARACT)<br /> d'ingénieurs et de techniciens de prévention en fonction en entreprise,<br /> de médecins du travail, de consultants en prévention des risques professionnels et protection de l'environnemen</p>]]></JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Le jury VAE, de 3 à 5 personns est composé au vu des dossiers à étudier (2 ou 3 sessions par an)<br />2 à 3 membres au moins représentant le secteur professionnel de la certification visée et notamment de la spécificité des dossiers présentés (sujets traités, parcours des candidats, ...)<br />le directeur général de l'établissement ou son représentant par délégation</p>
+]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 11 mars 2004 publié au Journal Officiel du 13 mars 2004 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 27 décembre 2018 publié au Journal Officiel du 4 janvier 2019 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour quatre ans, au niveau II, sous l'intitulé "Préventeur en Risques professionnels, Santé au travail et Environnement" avec effet au 3 juillet 2017, jusqu'au 4 janvier 2023.</p>
+<p>Arrêté du 16 avril 2014 publié au Journal Officiel du 03 juillet 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour trois ans, au niveau III, sous l'intitulé "Coordinateur en prévention des risques et en protection de l’environnement" avec effet au 21 juillet 2013, jusqu'au 03 juillet 2017.</p>
+<p>Arrêté du 8 juillet 2009 publié au Journal Officiel du 21 juillet 2009 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour quatre ans, au niveau III, sous l'intitulé Coordinateur en prévention des risques avec effet au 21 juillet 2009, jusqu'au 21 juillet 2013. <br /><br /> Décret n° 2004-171 du 19 février 2004 modifiant le décret n° 2002-616 du 26 avril 2002 relatif au répertoire national des certifications professionnelles (publié au Journal Officiel du 22 février 2004). La validité du titre est prorogée jusqu’au 31 décembre 2005. <br /><br /> Arrêté du 03 octobre 2002 publié au Journal Officiel du 12 octobre 2002. L'homologation prend effet à compter du 1er janvier 1970 et jusqu'au 31 décembre 2003. <br /><br /> Arrêté du 4 janvier 2000 publié au Journal Officiel du 13 janvier 2000 portant homologation de titres et diplômes de l’enseignement technologique. <br /><br /> Arrêté du 12 novembre 1996 publié au Journal Officiel du 29 novembre 1996 portant homologation de titres et diplômes de l’enseignement technologique. Homologation sous l'intitulé 'Technicien supérieur en sécurité du travail'. <br /><br /> Arrêté du 17 juin 1980 publié au Journal Officiel du 21 août 1980 portant homologation de titres et diplômes de l’enseignement technologique. Homologation sous l'intitulé 'Diplôme de sécurité du travail'.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>28/04/2002</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>04/01/2019</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[Site web de l'ESSEL : www.essel-limoges.fr Courrier électronique : essel@3il.fr    <br />
+<br/> <a href = "http://www.essel-limoges.fr">http://www.essel-limoges.fr </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>04/01/2023</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2811</ID_FICHE>
+		<NUMERO_FICHE>RNCP6262</NUMERO_FICHE>
+		<INTITULE><![CDATA[CQP Ouvrier docker]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<INTITULE>Sans niveau – le positionnement dans le cadre de national
+				des certifications professionnelles est non déterminé</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3273</NUMERO>
+			<LIBELLE><![CDATA[Manutention portuaire]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>311</CODE>
+				<INTITULE><![CDATA[Transports, manutention, magasinage]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>47793994600018</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[SCI MARCEAU MANUTENTION MARITIME]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission paritaire nationale de l'emploi (CPNE) de la manutention portuaire - Union nationale des industries de la manutention dans les ports français (UNIM)]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Le docker assure des opérations de manipulation, de portage, de déplacement, de chargement et déchargement de marchandises, d'objets en vrac et en contenant, de produits, de véhicules ou d’engins. Il réalise ces opérations manuellement. Généralement, il travaille au sein d’une équipe, sous l’autorité d’un responsable. L’ensemble de ces activités représente le cœur du métier indispensable pour une évolution vers des spécialisations. Le docker exerce ces activités sur des quais, des terminaux, « sous hangar », et à bord des navires. Les marchandises à charger ou à décharger, sont généralement acheminées vers les ports par route, fer, barges, ou navires et chacun de ces moyens de transport nécessite une manutention qui lui est propre. A ce titre, les ouvriers dockers doivent disposer d’un socle de compétences commun et indispensables à l’exercice de leur fonction. Ce socle commun, majoritairement liées aux exigences de sécurité et à la connaissance de l’environnement portuaire, constitue un pré requis à l’acquisition de compétences spécifiques permettant de répondre aux enjeux d’un port ou d’une entreprise déterminée. Ainsi l’ouvrier docker doit être capable d’intervenir dans les domaines d’activités suivants :<br /><b>Domaines d’activités communs (tronc commun)<i><br /></i></b>-          Opération de prise et de fin de poste<br />-          Respect des règles de sécurité et de sûreté<br />-          Opérations d’arrimage, de saisissage et opérations inverses<br />-          Opérations d’élingage et opérations inverses<br />-          Opérations de manutention manuelle<br />-          Opérations de nettoyage de cales, échelle au navire et des quais<b><br />Domaines d’activités spécifiques (spécialités)</b><br />-       Opérations de chargement/déchargement de la marchandise avec des moyens roulants : «roro» ( roll on roll off)<br />-       Opérations de chargement/déchargement de la marchandise par levage : « lolo » (loading on, loading off)<br />-       Saisissage/ désaisissage des conteneurs ou des marchandises<br />-       Opérations  de  chargement / déchargement de véhicules sur des « ferry » ou « car-carriers » ou de remorques non accompagnées</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p><b>L’ensemble des compétences générales suivantes sont attestées :</b><br />-          Sur les quais, les terminaux, « sous hangar » ou à bord du navire, réaliser les opérations de prise et de fin de poste en respectant les consignes données et les règles de sûreté et de sécurité appliquées aux personnes, aux marchandises et à l’environnement.<br />-          Avant et à l’issue des opérations de levage, effectuer les opérations d’élingage de la marchandise et les opérations inverses en respectant les règles de sécurité appliquées aux personnes, aux marchandises et à l’environnement.<br />-          Avant et à l’issue des opérations de levage, effectuer les opérations d’élingage de la marchandise et les opérations inverses en respectant les règles de sécurité appliquées aux personnes, aux marchandises et à l’environnement.<br />-          Effectuer les activités de manutention manuelle en appliquant les principes de sécurité physiques<b><br />L’ensemble des compétences spécifiques suivantes seront, le cas échéant, attestées :</b><br />-          Réaliser les opérations de chargement et déchargement de la marchandise avec des moyens roulants, en respectant les règles de sécurité appliquées aux personnes, aux marchandises et à l’environnement.<br />-          Accompagner les opérations de chargement et déchargement de la marchandise au moyen d’engins de levage, en respectant les règles de sécurité appliquées aux personnes, aux marchandises et à l’environnement.<br />-          Effectuer les opérations de saisissage et de désaisissage des conteneurs en respectant les règles de sécurité appliquées aux personnes, aux marchandises et à l’environnement.<br />-          Dans le cadre de chargement à bord de « car carrier » ou de « ferry », conduire des véhicules en respectant les règles de sécurité tant au niveau de la vitesse, que des distances de sécurité et des manœuvres  à effectuer</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[Manutention en zone portuaire]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[Ouvrier docker, agent du stockage et de la répartition des marchandises, agent de manipulation et de déplacement des charges.]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>N1103</CODE>
+				<LIBELLE><![CDATA[Magasinage et préparation de commandes]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>N1105</CODE>
+				<LIBELLE><![CDATA[Manutention manuelle de charges]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Jury tripartite : un nombre égal de représentants qualifiés employeurs et salariés / un formateur extérieur à l’action de formation.<br />À la demande du jury, un formateur ayant participé à l’action de formation, pourra être appelé à titre consultatif.</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Jury tripartite : un nombre égal de représentants qualifiés employeurs et salariés / un formateur extérieur à l’action de formation.<br />À la demande du jury, un formateur ayant participé à l’action de formation, pourra être appelé à titre consultatif.</p>]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Jury tripartite : un nombre égal de représentants qualifiés employeurs et salariés / un formateur extérieur à l’action de formation.<br />À la demande du jury, un formateur ayant participé à l’action de formation, pourra être appelé à titre consultatif.</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 3 novembre 2008 publié au Journal Officiel du 13 novembre 2008 (cf. arrêté du 14 novembre 2008 publié le 21 novembre 2008 modifiant l'arrêté du 3 octobre 2008) portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé Certificat de qualification professionnelle Ouvrier docker avec effet au 13 novembre 2008, jusqu'au 13 novembre 2013    - Autorité responsable de la certification : Union Nationale des Industries de la Manutention dans les ports français</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p></p>
+<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Ouvrier docker » avec effet au 13 novembre 2013, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>13/11/2008</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<p>UNIM : 76 Avenue Marceau - 75008 Paris<br />Tél : 01 53 67 77 17</p><br/> <a href = "http://www.unim.org">UNIM </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2812</ID_FICHE>
+		<NUMERO_FICHE>RNCP6595</NUMERO_FICHE>
+		<INTITULE><![CDATA[CQP Chargé(e) de relation clientèle assurance]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<INTITULE>Sans niveau – le positionnement dans le cadre de national
+				des certifications professionnelles est non déterminé</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3265</NUMERO>
+			<LIBELLE><![CDATA[Sociétés d'assurances]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>313t</CODE>
+				<INTITULE><![CDATA[Instruction de dossiers, traitements de flux et de produits financiers]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>31146321000055</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[FEDERATION FRANC SPORT ADAPTE]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission paritaire nationale de la formation professionnelle et de l'emploi (CPNE) des sociétés d'assurances - Fédération française des sociétés d’assurances (FFSA)]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission Paritaire Nationale de la Formation Professionnelle et de l'Emploi (CPNE) des sociétés d'assurances - Groupement des entreprises mutuelles d’assurances (GEMA)]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Dans le cadre d'une société d'assurances, le/la 'Chargé(e) de relation clientèle assurance ' procède au recueil d’informations fiables pour analyser le besoin du client ou prospect en souscription ou indemnisation de risques standard. Selon les informations recueillies et dans le cadre de sa délégation :     <br /> - il/elle propose les produits d’assurance correspondant aux besoins du client décelés lors de l’entretien. Il procède en lien avec le système informatique à l’acceptation du risque ; puis il établit le contrat et assure éventuellement les activités de gestion liées à ce contrat    <br /> ,et/ou    <br /> - après avoir vérifié que la garantie souscrite couvre le sinistre déclaré, il/elle évalue le montant du dommage à l’aide du système informatique, des informations recueillies du client et des prestataires extérieurs éventuels ; puis il/elle propose et met en oeuvre les prestations prévues au contrat.    <br /> Dans cette perspective, il/elle exerce les activités suivantes :     <br /> 1. Entrer en relation avec le client ou prospect :    <br /> - identification du client ou prospect par rapport à une typologie de clientèle visant à adapter son comportement et son discours, dans le respect des règles d’accueil     <br /> - recueil d’un premier niveau d’information permettant de qualifier le contact (souscription ou indemnisation de risques standard) ou de réorienter le client ou prospect     <br /> 2. Recueillir et analyser la demande ou le besoin    <br /> - développement d’un questionnement, recueil des éléments nécessaires au traitement de la demande ou du besoin - détermination du besoin de souscription et/ou de la nature du sinistre déclaré     <br /> 3. Rechercher les solutions techniques liées à la vie du contrat dont l'acceptation et/ou l'indemnisation    <br /> - identification des garanties à proposer et des conditions d’acceptation du risque au regard de la demande formulée    <br /> - identification des conditions d’indemnisation du contrat souscrit    <br /> - contrôle de la concordance du besoin du client ou prospect à l’offre de souscription et/ou d’indemnisation du sinistre déclaré au regard des garanties souscrites     <br /> 4. Proposer et argumenter l'offre de garantie ou d'indemnisation- valorisation des éléments de la proposition : étendue et montant des garanties au regard de la cotisation fixée, modalités d’indemnisation au regard des garanties souscrites    <br /> - ajustement des conditions de garanties ou d’indemnisation, le cas échéant    <br /> 5. Finaliser l'entretien    <br /> - récapitulation des éléments de l’entretien et des décisions prises - formulation d’une offre additionnelle     <br /> - justification du refus d’assurer le risque ou d’indemniser en application de l’offre contractuelle ou des garanties souscrites     <br /> - conclusion de l’entretien     <br /> - enregistrement de l’opération et lancement informatique de l’émission des documents correspondants     <br /> - planification des opérations à mener dans le cadre du suivi     <br /> 6. Assurer le 'suivi client ou prospect'    <br /> - relance des clients auxquels un devis a été adressé     <br /> - suivi de la gestion des sinistres     <br /> - complément d’information</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Le titulaire de la certification est capable de :<br />1. Concernant les compétences communes de la relation clientèle assurance :     <br /> - établir une relation personnalisée en manifestant une attention particulière à la situation du client ou prospect    <br /> - gérer les comportements et situations de tension (stress, conflits, agressivité, etc.)    <br /> - expliquer les éléments techniques en langage compréhensible par le client ou prospect    <br /> - utiliser les différents applicatifs informatiques pour effectuer les opérations de traitement     <br /> . appliquer les procédures de contrôle     <br /> - gérer la relation au temps et faire face aux flux  des demandes    <br /> - mettre en oeuvre les règles, procédures de gestion et de durées de traitement des opérations liées à la vie du contrat dont l’acceptation et/ou l’indemnisation    <br /> 2.Concernant les compétences spécifiques de la relation clientèle assurance :     <br /> - mettre en œuvre une procédure d’accueil personnalisé dans le respect des règles fixées au niveau de l’entreprise    <br /> - suivre une méthode de questionnement pour recueillir les informations techniques nécessaires au traitement de la demande de souscription ou d’indemnisation    <br /> - valider la cohérence des déclarations du client ou prospect par la reformulation    <br /> - identifier et vérifier les conditions d’acceptation du risque ou de réalisation de la garantie en cas de sinistre à partir des informations recueillies pouvant aboutir à une proposition ou un refus de garantie ou de prise en charge    <br /> - contrôler que la réponse fournie par l’applicatif est en relation avec la demande du client     <br /> - présenter la solution définie     <br /> - argumenter les avantages de la solution     <br /> - ajuster la solution technique à la demande du client ou prospect dans les limites prévues    <br /> - identifier les motifs du refus par le client ou prospect    <br /> - formuler une synthèse de la solution technique retenue en reprenant l’ensemble des éléments de la proposition     <br /> - faire une offre additionnelle en fonction de la situation     <br /> - expliquer la suite à donner à la solution technique (délais, documents à envoyer, etc.)    <br /> - expliquer clairement et de manière acceptable un refus de garantie par l’assureur au client ou prospect, ou prendre acte du refus définitif par le client ou prospect     <br /> - conclure l’entretien    <br /> - enregistrer les éléments nécessaires au suivi du client ou prospect et à la conduite des opérations nécessaires à l’exécution de la prestation en liaison avec les prestataires internes et externes    <br /> - effectuer les opérations de relance (clients, prospects ou prestataires)</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[Les secteurs d’activité susceptibles d’offrir un emploi aux titulaires du certificat de qualification professionnelle « Chargé(e) de relation clientèle assurance » sont ceux qui exercent à titre principal ou accessoire une activité d’assurance portant sur la souscription et/ou l’indemnisation de risques standard, peu important la taille de l’entreprise.]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[Les emplois occupés peuvent être : - gestionnaire de contrats    <br /> - chargé (e) d’indemnisation    <br /> - chargé (e) de souscription     <br /> - chargé (e) de clientèle    <br /> - conseiller clientèle    <br />
+]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>C1102</CODE>
+				<LIBELLE><![CDATA[Conseil clientèle en assurances]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[- 38,5% de représentants des organisations de salariés - 38,5% de représentants des organisations des employeurs    <br /> - 23% correspondant aux personnalités qualifiées    <br />
+]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[Idem]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[Idem]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 28 janvier 2009 publié au Journal Officiel du 7 février 2009 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé certificat de qualification professionnelle Chargé(e) de relation clientèle assurance avec effet au 7 février 2009, jusqu'au 7 février 2014.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p></p>
+<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Chargé(e) de relation clientèle assurance » avec effet au 7 février 2014, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>07/02/2009</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[Accès direct à la brochure d’information relative au certificat de qualification professionnelle « Relation clientèle assurance ». http://www.ffsa.fr/webffsa/metiers.nsf/html/2D3E55919A53A3BAC1257188003507ED/$file/BROCHURCQP2006.pdf    <br /> <br /> Accès direct à la brochure relative à la validation des acquis dans l’assurance     <br /> http://www.ffsa.fr/webffsa/metiers.nsf/html/FA54777483711427C125718800360C63/$file/BROCHUREVAE2006.pdf    <br /> <br /> Accès direct au site du pôle VAE de l’assurance    <br /> http://www.ifpass.fr/index.php    <br />
+<br/> <a href = "http://www.ffsa.fr">http://www.ffsa.fr </a><br/><a href = "http://www.gema.fr">http://www.gema.fr </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>4476</ID_FICHE>
+		<NUMERO_FICHE>RNCP17802</NUMERO_FICHE>
+		<INTITULE><![CDATA[Agent d’escale ferroviaire]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV4</NIVEAU>
+			<INTITULE>niveau4</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>311</CODE>
+				<INTITULE><![CDATA[Transports, manutention, magasinage]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>55204944792805</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[SNCF MOBILITES]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[SNCF mobilités]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>En gare, l’Agent d’Escale Ferroviaire assure principalement les activités suivantes :<br />-        il prépare sa séance de travail en fonction de ses missions : sécurité, service client, gestion de site, il assure la préparation technique du train et certaines opérations de préparation commerciale du train (étiquetage, placage, …), en coopération avec les autres services et les prestataires ;<br />-        il assure les opérations liées à la formation et au départ des trains ;<br />-        il accueille, informe, assiste la clientèle et assure sa prise en charge en situation perturbée ;<br />-        il communique et restitue à l’écrit et à l’oral les informations nécessaires à la fluidité et à la sécurité des flux de voyageurs, des trafics et des personnels avec les services concernés (Circulation ferroviaire, les autres opérateurs, ...) ;<br />-        il peut  assurer ou participer à la gestion opérationnelle  d’un site ou d’une gare.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Les capacités attestées par la certification s'articulent autour des activités définies ainsi :<br />-assurer la prise de service, analyser les informations,procéder à une vérification du matériel roulant, prendre les mesures en cas d'avaries,identifier la composition du train, mettre en place le système de réservation <br />-assurer la formation du train,vérifier sa compositionet l'aptitude au transport du matériel roulant,réaliser les essais de freinset coordonner les mouvements, aasurer l'ensemble des opérations de sécurité et donner le départ du train<br />-accueillir et renseigner les clients,gérer les situations de crise qui relèvent de sa compétence,coopérer avec les partenaires de la chaîne de service<br />-appliquer et faire appliquer l'ensemble des règles liées à la sécurité des personnes<br />-assurer la gestion opérationnellle d'un site et de ses abords (propreté,sureté des clients,mise à disposition et maintenance des installations)<br />-renseigner l'ensemble des documents de traçabilité des opérations</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>L’agent d’Escale Ferroviaire peut exercer dans les secteurs public et privé dans des entreprises ferroviaires de taille variée. Ce professionnel intervient principalement dans le cadre du transport de voyageurs.<br />     L’agent d’Escale Ferroviaire assure en gare tout ou partie des opérations liées au service du train et du client. Préalablement au départ, il assure la préparation technique et commerciale du train et en vérifie la conformité. Il assure également une mission de relation client et tient alors un rôle direct dans la satisfaction et la fidélisation de celui-ci. Enfin, il peut être amené à gérer un site (petit à moyen) sur le plan opérationnel. Dans tous les cas, son action a pour finalité d’assurer la sécurité des personnes et des installations.</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>-Agent d’escale ferroviaire<br />-Agent de circulation et d'accueil<br />-Agent escale produit train en gare<br />-Agent du service départ des trains</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>N4401</CODE>
+				<LIBELLE><![CDATA[Circulation du réseau ferré]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[<p>L'arrêté du 7 mai 2015 modifié par le décret n°2017-527 du 12 avril 2017 relatif aux tâches essentielles pour la sécurité ferroviaire autres que la conduite des trains, pris en application des articles 6 et 26 du décret n°2006-1279 du 19 octobre 2006 modifié, relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, fixe les exigences relatives:<br />-aux connaissances professionnelles<br />-à la formation<br />-à l'habilitation du personnel à l'exercice des tâches de sécurité sur le réseau ferré national<br />     Dans le cadre du système de gestion de la sécurité de SNCF Mobilités, l'agent d'escale ferroviaire doit:<br />-satisfaire aux aptitudes physiques et psychologiques<br />-obtenir l'habilitation aux tâches de sécurité (attestation de formation initiale et attestation de réussite à l'évaluation des connaissances professionnelles)<br />     Les conditions de maintien de l'habilitation ou son renouvellement ainsi que la traçabilité exigée sont décrites dans un référentiel interne</p>]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_CA>Oui</SI_JURY_CA>
+		<JURY_CA><![CDATA[<p>Le jury est composé du Président :le Responsble du Département Métier Escale de la Direction Déléguée des Trains et de l'Escale ou de son représentant <br />Il est accompagné d'un ou plusieurs assesseurs parmi les représentants du métier de l'Escale des Activités Voyageurs et les formateurs<br />Les délégués de comission assistent aux opérations de jury</p>]]></JURY_CA>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Le jury est composé du Président :le Responsble du Département Métier Escale de la Direction Déléguée des Trains et de l'Escale ou de son représentant <br />Il est accompagné d'un ou plusieurs assesseurs parmi les représentants du métier de l'Escale des Activités Voyageurs et les formateurs<br />Les délégués de comission assistent aux opérations de jury</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Le jury est composé du Président :le Responsble du Département Métier Escale de la Direction Déléguée des Trains et de l'Escale ou de son représentant <br />Il est accompagné d'un ou plusieurs assesseurs parmi les représentants du métier de l'Escale des Activités Voyageurs et les formateurs<br />Les délégués de comission assistent aux opérations de jury</p>]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Le président du jury désigne les membres du jury conformément à la composition suivante:<br />- Le Responsable du Département Métier Escale à la Direction Déléguée des Trains et de l'Escale (président)<br />-Un(e) Dirigeant(e) de Proximité Escale<br />-Un(e) formateur(trice) de centre de formation production voyageurs<br />-Un(e) agent d'escalesalarié(e)<br />-Une personne extérieure à l'entreprise représentant "direction" ainsi qu'une personne extérieure à l'entreprise représentant "salarié" (par exemlpe: VFLI, Eurotunnel...)<br />Le président s'efforce d'avoir une représentation équilibrée hommes/femmes</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 19 novembre 2013 publié au Journal Officiel du 29 novembre 2013 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour quatre ans, au niveau IV, sous l'intitulé "Agent d'escale ferroviaire" avec effet au 23 mars 2012, jusqu'au 29 novembre 2017. Autorité responable : Société nationale des chemins de fer français (SNCF Ferroviaire).</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 09 avril 2018 publié au Journal Officiel du 17 avril 2018 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, au niveau IV, sous l'intitulé "Agent d’escale ferroviaire" avec effet au 29 novembre 2017, jusqu'au 17 avril 2023. Autorité responsable : SNCF mobilités.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>29/11/2013</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>17/04/2018</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<p>www.sncf.com<br />http://www.sncf.com/fr/groupe/emploi/recrutement-sncf</p><br/> <a href = "http://www.sncf.com/fr/groupe/emploi/recrutement-sncf">Fiche métier AEF </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>17/04/2023</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<BLOCS_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP17802BC01</CODE>
+				<LIBELLE><![CDATA[Appliquer les règles liées à la sécurité des personnes]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Les capacités attestées :</strong><br />Appliquer les règles et les procédures liées à la sécurité des personnes (déplacement dans les emprises, co activité, risques ferroviaires, risques électriques)<br /><strong>Modalités d'évaluation  :</strong><br />Dans le cadre d'une journée de travail reconstituée afin d'évaluer:<br />le respect et l'utilisation des règles et procédures en matière de sécurité</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP17802BC02</CODE>
+				<LIBELLE><![CDATA[Accueillir, informer et assister la clientèle afin de favoriser l'accès au train]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Les capacités attestées :</strong><br />Apporter l’information aux clients en situations normale et perturbée (accès au train, prestations annexes, correspondances, services locaux …) Effectuer les missions de sono et de téléaffichage avec les outils informatiques Mettre en œuvre des procédures de sécurité, de sûreté et des mesures spécifiques en cas de crise Evaluer sa capacité à gérer la situation et solliciter un appui si nécessaire Communiquer des informations claires, exactes et exploitables à l’ensemble des partenaires de la chaîne de service  <br /><strong>Modalités d'évaluation  :</strong><br />Dans le cadre d'une journée de travail reconstituée pour évaluer :<br />La maîtrise de l'environnement et orientation de la clientèle dans le respect des procédures d'accueil,mise en oeuvre des procédures et mesures spécifiques en situation dégradée<br />La transmission des informations claires,précises,exactes et exploitables à l'ensemble des partenaires de la chaîne de service</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP17802BC03</CODE>
+				<LIBELLE><![CDATA[Communiquer - restituer]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Les capacités attestées :</strong><br />Respecter les procédures de transmission de service Utiliser les outils de communication de façon pertinente Rédiger de façon claire les différents rapports ( ordres écrits, rapport d’incidents, suivi de l’activité journalière Savoir communiquer verbalement avec les différents services internes et externes  (poste d’aiguillage, police..)<br /><strong>Modalités d'évaluation  :</strong><br />Dans le cadre d'une situation de travail reconstituée afin d'évaluer:<br />L'analyse et la communication écrite et orale<br />La rigueur et la fiabilité des informations<br />La rédaction conforme</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP17802BC04</CODE>
+				<LIBELLE><![CDATA[Préparer - Organiser le train]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Capacités attestés :</strong><br />S'équiper des équipements de protection individuelle Analyser les informations conjoncturelles à la prise de service Identifier les interlocuteurs de son environnement professionnel Appliquer les textes réglementaires et les procédures de sécurité liès à la prèparation du train (différentes étapes, circuits de commandement opérationnel et de supervision)<br /><strong>Modalités d'évaluation</strong> :<br />Mise en situation de travail et lors d'une reconstitution pour évaluation:<br />La prise de service, la bonne analyse des informations conjoncturelles, l'application des textes réglementaires et les procédures applicables.<br />Le bon usage de composition des trains et la lecture des shémas</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP17802BC06</CODE>
+				<LIBELLE><![CDATA[Gérer opérationnellement un site et  ses abords ]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Les capacités attestées :</strong><br />Veiller à la préservation de la propreté de la gare, au bon fonctionnement des équipements mis à la disposition de la clientèle (distributeurs de billets, composteurs, ascenseurs…) S’assurer de la sûreté des clients (gestion des flux, abords de la gare..)<br /><strong>Modalités d'évaluation  :</strong><br />Dans le cadre d'une journée de travail reconstituée afin d'évaluer:<br />La gestion en terme de propreté, de sûreté des clients en gare et de mise à disposition et maintenance des installations</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP17802BC07</CODE>
+				<LIBELLE><![CDATA[Organiser des opérations liées à la formation et au départ des trains]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p> <strong>Les capacités attestées :</strong></p>
+<p>Connaître les étapes de la formation du train et respecter les procédures (règles de freinage, conformité des voitures, signalisation, attelage/dételage, manœuvre) S'assurer du respect des règles de sécurité et des prescriptions liées au départ des trains en fonction du matériel S'assurer de la présence de l'agent d'accompagnement et de la diffusion de l'annonce sonore </p>
+<p> </p>
+<p><strong>Modalités d'évaluation  :</strong><br>
+Mise en pratique dans le cadre d'une mise en situation professionnelle et lors d'une reconstitution pour évaluation de : La réalisation de la formation des trains, conformité des véhicules, signalisation réglementaire et contrôle, usage des horaires, essai de frein à réaliser, procédures de manœuvres des trains et application des règles de sécurité. L'application les procédures réglementaires L'identification et la communication avec le poste d'aiguillage </p>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p> </p>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+		</BLOCS_COMPETENCES>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2807</ID_FICHE>
+		<NUMERO_FICHE>RNCP20611</NUMERO_FICHE>
+		<ANCIENNE_CERTIFICATION>RNCP4742</ANCIENNE_CERTIFICATION>
+		<INTITULE><![CDATA[CQP Opérateur qualifié en conduite et maintenance des machines d’embouteillage ou de conditionnementt]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<INTITULE>Sans niveau – le positionnement dans le cadre de national
+				des certifications professionnelles est non déterminé</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3029</NUMERO>
+			<LIBELLE><![CDATA[Vins, cidres, jus de fruits, sirops, spiritueux et liqueurs de France]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>221u</CODE>
+				<INTITULE><![CDATA[Conduite d installations des industries agro-alimentaires et de machines de conditonnement]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[CPNE des industries et commerces en gros des vins, cidres, spiritueux, sirops, jus de fruits et boissons diverses - Conseil national des industries et commerces en gros des vins, cidres, spiritueux, sirops, jus de fruits et boissons diverses]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[L’ouvrier qualifié polyvalent sur la chaîne d’embouteillage/conditionnement conduit une ou plusieurs machines de la chaîne, sous la responsabilité d'un chef de ligne ou d'un chef de production. <br /> L’ouvrier qualifié polyvalent :     <br /> 1 – prépare, met en route et conduit sa ou ses machines,    <br /> 2 – assure la maintenance de premier niveau,    <br /> 3 - contribue à la qualité et à la traçabilité de la production,    <br /> 4 – met en pratique les règles d’hygiène et de sécurité alimentaire,    <br /> 5 – met en pratique les règles de sécurité,    <br /> 6 – accompagne les nouveaux arrivants,    <br /> 7 – participe à la production en s’intégrant dans une équipe de travail.    <br />
+]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[Connaissances attestées associées aux activités 1 - 5 - 7 : Environnement : filière, marchés, entreprise, atelier. Phases d’élaboration du produit embouteillé (notions). Process d’embouteillage  et de conditionnement. Organes des machines. Procédures d’installation  et de réglage des équipements. Réglementation sur les vins et alcools. Coût, rentabilité, productivité (notions). Risques liés à l’altération des matières sèches. Risques en cas de non respect des règles d’hygiène    <br /> Savoir-faire attesté :     <br /> Prise en compte de la réglementation sur les alcools, des notions de coût, rentabilité, productivité. Mise en route et arrêt des machines. Installation  et réglage des équipements. Gestion des approvisionnements en matières sèches. Maîtrise progressive d’une nouvelle machine. Oral : transmission d'informations, comptes-rendus, alerte, propositions, …Ecrit : fiches, main courante, consoles, guide des procédures, documents  machines,…    <br /> <br /> Connaissances attestées associées à l'activité 2 :    <br /> Points de vigilance d’un matériel, risques de dégradation, pièces d’usure. Organes des machines. Pannes sur le matériel et remèdes. Procédures d’installation et de réglage des équipements. Procédures de configuration d’une machine pour une intervention de maintenance    <br /> Savoir-faire attesté :     <br /> Maintenance de premier niveau. Installation  et de réglage des équipements. Opérations de maintenance de premier niveau. Premier diagnostic. Oral et écrit : idem    <br /> <br /> Connaissances attestées aux activités 3 et 4 :    <br /> Conséquences économiques de la pollution des produits embouteillés. Procédures d’hygiène et de sécurité alimentaire sur la ligne. Contrôles qualité. Critères de qualité des matières sèches et liquides. Enjeux de la qualité et de la traçabilité. Points critiques hygiène, sécurité, qualité. Règles de sécurité du matériel et des personnes sur la ligne. Procédures d’hygiène et de sécurité alimentaire sur la ligne    <br /> Savoir-faire attesté :     <br /> Vérification de l’altération des matières sèches. Oral et écrit : idem.    <br /> <br /> Connaissances attestées à l'activité 6 :    <br /> Organes des machines, fonctionnement, liaisons fonctionnelles    <br /> Savoir-faire attesté :    <br /> Rappel des règles de qualité, d’hygiène et de sécurité sur le poste. Explication du mode de fonctionnement de la machine et de son pilotage. Règles de qualité, d’hygiène et de sécurité sur le poste. Mise en œuvre d’une démarche d’accompagnement : expliquer, montrer, faire faire, surveiller, corriger     <br />
+]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[L'ouvrier polyvalent sur la chaîne d'embouteillage - conditionnement exerce dans des entreprises de négoce en vins ou spiritueux ou chez des producteurs embouteilleurs, les producteurs distributeurs de jus de fruits et de légumes, les élaborateurs de sirops et les industries cidricoles.]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[Opérateurs de chaînes de production (embouteillage - conditionnement)]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>H2102</CODE>
+				<LIBELLE><![CDATA[Conduite d'équipement de production alimentaire]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Le jury est constitué de cinq membres dont trois professionnels.</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Idem</p>]]></JURY_CQ>
+		<SI_JURY_CL>Oui</SI_JURY_CL>
+		<JURY_CL><![CDATA[<p>Idem</p>]]></JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Idem</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 02 octobre 2006 publié au Journal Officiel du 24 octobre 2006 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, avec effet au 24 octobre 2006, jusqu'au 24 octobre 2011.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p></p>
+<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Opérateur qualifié en conduite et maintenance des machines d’embouteillage ou de conditionnement » avec effet au 24 octobre 2011, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>24/10/2006</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[ <a href = "http://www.fafsea.com">http://www.fafsea.com </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>2809</ID_FICHE>
+		<NUMERO_FICHE>RNCP20614</NUMERO_FICHE>
+		<ANCIENNE_CERTIFICATION>RNCP5494</ANCIENNE_CERTIFICATION>
+		<INTITULE><![CDATA[CQP Conseiller de vente confirmé pièces de rechange et accessoires]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<INTITULE>Sans niveau – le positionnement dans le cadre de national
+				des certifications professionnelles est non déterminé</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3034</NUMERO>
+			<LIBELLE><![CDATA[Services de l'automobile (Commerce et réparation de l'automobile, du cycle et du motocycle, activités connexe, contrôle technique automobile, formation des conducteurs)]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>252w</CODE>
+				<INTITULE><![CDATA[Vente, prospection et négociation commerciales d automobiles et produits connexes, et d accessoires]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>78467149700385</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[ASS NATIONALE FORMATION AUTOMOBILE]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission paritaire nationale (CPN) des services de l'automobile - Association nationale pour la formation automobile (ANFA)]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Le Conseiller de Vente Confirmé Pièces de Rechange et Accessoires assure des activités de commercialisation de pièces de rechange, accessoires et produits destinés aux véhicules sur l’un des lieux de vente de l’entreprise. Il assure la vente et le conseil technique à distance, en particulier par téléphone, notamment dans des domaines de technologie complexe.<br />Il réalise : <br />- la commercialisation de pièces de rechange, produits et accessoires sur l’un des lieux de vente de l’entreprise <br />- les conseils techniques portant sur le choix/ l’utilisation/ le montage de produits et accessoires<br />- la proposition de modalités de financement<br />- la facturation, l’encaissement <br />- le traitement des réclamations<br />- l’aménagement et l’animation de lieux de vente (implantation/ signalétique/ étiquetage…)<br />- la commande de produits auprès de fournisseurs <br />- la réception/ le stockage/ l’expédition (contrôles qualitatifs et quantitatifs des produits, enregistrement des références, préparation des commandes, suivi des commandes atelier)<br />- le référencement des pièces de rechange<br />- la participation à la gestion des stocks</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Les capacités attestées :<br />- Assurer la commercialisation des P.R.A.<br />- Ajuster une commande fournisseur aux besoins de l’entreprise <br />- Appliquer la législation dans les activités administratives et commerciales <br />- Aménager les lieux de vente / Mettre en valeur les produits <br />- Assurer les opérations de réception, de stockage et d’expédition dans leurs aspects physiques et administratifs<br />- Utiliser et renseigner les documents administratifs et commerciaux afférents à l’activité<br />- Situer son activité dans l’entreprise et son environnement professionnel</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>L'emploi est exercé dans les entreprises suivantes :<br />- Les concessions automobiles qui assurent une activité de commercialisation de pièces de rechange et accessoires, pour leur réseau d’agents, pour des particuliers et pour leurs propres ateliers de réparation.<br />- Les distributeurs stockistes, ou équipementiers automobile qui commercialisent auprès d’une clientèle de particuliers et de professionnels des pièces de rechange et accessoires<br />- Les centres automobiles, de type spécialistes ou généralistes, parfois adossés à une enseigne de la grande distribution<br />- Les entreprises spécialisées dans le démontage et recyclage automobile qui assurent la commercialisation de pièces de réemploi.</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Conseiller de vente confirmé pièces de rechange et accessoires<br />Vendeur magasinier confirmé pièces de rechange et accessoires<br />Vendeur conseil confirmé en pièces de rechange et accessoires.</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>D1212</CODE>
+				<LIBELLE><![CDATA[Vente en décoration et équipement du foyer]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Jury paritaire tripartite (un représentant d’une organisation d’employeurs, un représentant d’une organisation syndicale, un formateur désigné par l’ANFA)</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Jury paritaire tripartite (un représentant d’une organisation d’employeurs, un représentant d’une organisation syndicale, un formateur désigné par l’ANFA)</p>]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Jury paritaire tripartite (un représentant d’une organisation d’employeurs, un représentant d’une organisation syndicale, un formateur désigné par l’ANFA)</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 03 octobre 2007 publié au Journal Officiel du 13 octobre 2007 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, avec effet au 13 octobre 2007, jusqu'au 13 octobre 2012.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p></p>
+<p>Arrêté du 19 novembre 2014 publié au Journal Officiel du 29 novembre 2014 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour cinq ans, sous l'intitulé « Certificat de qualification professionnelle Conseiller de vente confirmé pièces de rechange et accessoires » avec effet au 13 octobre 2012, jusqu'au 29 novembre 2019.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>13/10/2007</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>29/11/2014</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<p>Standard ANFA (Sèvres) : 01 41 14 16 18 Observatoire ANFA : 02 28 01 08 01</p><br/> <a href = "http://www.anfa-auto.fr">http://www.anfa-auto.fr </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>29/11/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>19559</ID_FICHE>
+		<NUMERO_FICHE>RNCP34360</NUMERO_FICHE>
+		<INTITULE><![CDATA[Réalisateur numérique]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<FORMACODES>
+			<FORMACODE>
+				<CODE>46276</CODE>
+				<LIBELLE><![CDATA[ film animation]]></LIBELLE>
+			</FORMACODE>
+		</FORMACODES>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV7</NIVEAU>
+			<INTITULE>niveau7</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>323</CODE>
+				<INTITULE><![CDATA[Techniques de l'image et du son, métiers connexes du spectacle]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>78987753700041</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[RUBIKA]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Le réalisateur numérique joue un rôle déterminant dans la réalisation d’un film. Dans l’exercice se ses fonctions, le/la réalisateur-trice numérique est amené à exercer soit des fonctions de management, soit des fonctions d'expertise. </p>
+<p>Les activités visées par le poste de Réalisateur numérique sont les suivantes : </p>
+<ul>
+  <li>Conception d’un film d’animation 3D et supervision de la direction artistique en vue de la sa pré-production 
+    <ul>
+      <li> Cadrage du projet pour répondre aux attentes du client </li>
+      <li> Conception et Supervision artistique  </li>
+    </ul>
+  </li>
+  <li>Réalisation d’un film d’animation 3D en intégrant l’organisation et le pilotage en vue de sa diffusion 
+    <ul>
+      <li>pilotage et organisation d'équipe  </li>
+      <li>direction ou réalisation de la production du film en intégrant toutes les techniques nécessaires à sa qualité
+        <ul>
+          <li>Réalisation des personnages et des décors en 3D</li>
+          <li>Animation des personnages et de l’environnement</li>
+          <li>Réalisation des effets spéciaux</li>
+          <li>Montage du film </li>
+          <li>Réalisation du compositing   </li>
+        </ul>
+      </li>
+      <li>Communication sur le projet à des fins de diffusion</li>
+    </ul>
+  </li>
+</ul>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Dans le cadre de ces activités, les compétences attestées sont les suivantes : </p>
+<p>En matière de conception et supervision de la direction artistique :</p>
+<ul>
+  <li>Concevoir   et réaliser une présentation du projet</li>
+  <li>Communiquer   et expliquer ses choix aux équipes</li>
+  <li>Superviser   la direction artistique </li>
+  <li>Concevoir   un cahier des charges </li>
+  <li>Réaliser   un planning de production </li>
+  <li>Mettre   à profit sa culture cinématographique pour écrire un scénario </li>
+  <li>Savoir   dessiner, photographier et cadrer pour mettre en image le scénario et   réaliser le storyboard</li>
+  <li>Réaliser   la mise en scène pour donner du sens aux intentions artistiques </li>
+  <li>Mettre   à profit sa culture artistique pour réaliser la bible graphique </li>
+  <li>Utiliser   les logiciels d’Animation pour réaliser l’animatique 2D ou 3D du projet afin   d’avoir une prévisualisation du film..      </li>
+</ul>
+<p>En matière de Réalisation d’un film d’animation 3D</p>
+<ul>
+  <li>Piloter et organiser les équipes
+    <ul>
+      <li>Parler l’Anglais</li>
+      <li>Communiquer régulièrement et clairement ses idées</li>
+      <li>Décider des actions à mener en cas d’événements imprévus</li>
+      <li>Gérer les problèmes humains</li>
+      <li>Connaître, comparer et évaluer les différentes technologies disponibles </li>
+      <li>Mettre en place une équipe de production et distribuer les tâches </li>
+      <li>Gérer et coordonner les plannings</li>
+      <li>Savoir évaluer la production de chacun des métiers</li>
+    </ul>
+  </li>
+  <li> Diriger ou réaliser la production
+    <ul>
+      <li>Réaliser la modélisation des personnages & des décors</li>
+      <li>Réaliser des poses des personnages</li>
+      <li>Caractériser l’animation 3D</li>
+      <li>Utiliser les principaux logiciels d’animation 3D</li>
+      <li>Observer et analyser des effets réels (ex : explosion, feu…) </li>
+      <li>Utiliser les logiciels d’effets spéciaux</li>
+      <li>Intégrer les effets spéciaux dans le fil</li>
+      <li>Utiliser les logiciels 3D de rendu </li>
+      <li>Créer un univers artistique cohérent par la gestion de la lumière.  </li>
+    </ul>
+  </li>
+  <li>valoriser un film auprès des professionnels 
+    <ul>
+      <li>Connaitre les attentes des professionnels</li>
+      <li>Justifier de ses choix narratifs et artistiques</li>
+      <li>Justifier de ses choix techniques </li>
+    </ul>
+  </li>
+</ul>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>Le réalisateur numérique exerce essentiellement son activité au sein d'entreprises de production spécialisées en Images de synthèse, en France ou à l'étranger. Les secteurs d'activités sont les suivants :</p>
+<ul>
+  <li>Cinéma d'animation </li>
+  <li>Chaînes de télévision (réalisation de génériques, jingle, bandes-annonces…) </li>
+  <li>Studios de création de jeux vidéo </li>
+  <li>Entreprises spécialisées dans la production de films destinés aux parcs d’attraction </li>
+  <li>Entreprises spécialisées dans les films d’entreprises et institutionnels </li>
+  <li>Entreprises spécialisées dans la production de films documentaires ou à caractère didactique </li>
+  <li>Entreprises spécialisées en simulation architecturale et muséographique </li>
+  <li>Compagnies de spectacles vivants (danse, théâtre) pour la réalisation de décors projetés </li>
+  <li>Sociétés de production de clips musicaux, publicités animées </li>
+  <li>Entreprises spécialisées dans le vidéomapping (projection d’images animées sur des bâtiments) </li>
+  <li>Entreprises spécialisées en réalité virtuelle  </li>
+  <li>Entreprises spécialisées dans le cinéma dynamique (parc d’attraction type Futuroscope)  </li>
+</ul>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Dans les métiers du management : </p>
+<ul>
+  <li>Réalisateur / Metteur en scène </li>
+  <li>Directeur artistique </li>
+  <li>Story-boarder</li>
+  <li>Superviseur d'animation 3D</li>
+</ul>
+<p>Dans les métiers d'expertise : </p>
+<ul>
+  <li>Modeleur / Character Designer </li>
+  <li>Layout Man </li>
+  <li>Artiste Texture </li>
+  <li>Artiste Rendu </li>
+  <li>Rigger </li>
+  <li>Artiste Matte painting </li>
+  <li>Artiste Lumière </li>
+  <li>Animateur 3D </li>
+  <li>Artiste VFX </li>
+  <li>Compositeur (compositing) </li>
+</ul>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>L1510</CODE>
+				<LIBELLE><![CDATA[Films d'animation et effets spéciaux]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>L1304</CODE>
+				<LIBELLE><![CDATA[Réalisation cinématographique et audiovisuelle]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[<p>Intermittence du spectacle </p>]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<p>Le nombre de personnes composant le jury hors VAE est de 5. </p>
+<p>Le jury délivrant la certification est composé de :  </p>
+<ul>
+  <li>Philippe Meis : le directeur pédagogique de Supinfocom RUBIKA </li>
+  <li>Thierry Onillon, Superviseur VFX, MacGuff Paris & Bruxelles </li>
+  <li>Pierre-Guillaume Mongin, Infographiste 3D pour LSA Productions Trimaran </li>
+  <li>Mickael Carton, Gérant & Producteur exécutif pour Rainbox </li>
+  <li>Didier Quentin, Co-fondateur & Directeur créatif, YS Interactive   </li>
+</ul>]]></JURY_FI>
+		<SI_JURY_CA>Non</SI_JURY_CA>
+		<SI_JURY_FC>Non</SI_JURY_FC>
+		<SI_JURY_CQ>Non</SI_JURY_CQ>
+		<SI_JURY_CL>Non</SI_JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Le nombre de personnes composant le jury hors VAE est de 3. Le jury délivrant la certification est composé de :  </p>
+<ul>
+  <li>Philippe Meis : le directeur pédagogique de Supinfocom RUBIKA </li>
+  <li>Thierry Onillon, Superviseur VFX, MacGuff Paris & Bruxelles </li>
+  <li>Pierre-Guillaume Mongin, Infographiste 3D pour LSA Productions Trimaran </li>
+</ul>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<DATE_PREMIER_JO>10/10/2004</DATE_PREMIER_JO>
+		<STATISTIQUES_PROMOTIONS>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2018</ANNEE>
+				<NOMBRE_CERTIFIES>39</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>0</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>77</TAUX_INSERTION_GLOBAL_6MOIS>
+			</STATISTIQUES_PROMOTION>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2017</ANNEE>
+				<NOMBRE_CERTIFIES>60</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>0</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>91</TAUX_INSERTION_GLOBAL_6MOIS>
+				<TAUX_INSERTION_METIER_2ANS>45</TAUX_INSERTION_METIER_2ANS>
+			</STATISTIQUES_PROMOTION>
+			<STATISTIQUES_PROMOTION>
+				<ANNEE>2016</ANNEE>
+				<NOMBRE_CERTIFIES>65</NOMBRE_CERTIFIES>
+				<NOMBRE_CERTIFIES_VAE>0</NOMBRE_CERTIFIES_VAE>
+				<TAUX_INSERTION_GLOBAL_6MOIS>87</TAUX_INSERTION_GLOBAL_6MOIS>
+				<TAUX_INSERTION_METIER_2ANS>70</TAUX_INSERTION_METIER_2ANS>
+			</STATISTIQUES_PROMOTION>
+		</STATISTIQUES_PROMOTIONS>
+		<DATE_FIN_ENREGISTREMENT>16/12/2024</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<BLOCS_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34360BC01</CODE>
+				<LIBELLE><![CDATA[Conception d’un film d’animation 3D & Supervision de la direction artistique en vue de sa pré-production]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<ol>
+  <li>Concevoir et réaliser une présentation du projet  </li>
+  <li>Communiquer et expliquer ses choix aux équipes </li>
+  <li>Superviser la direction artistique    </li>
+  <li>Concevoir un cahier des charges  </li>
+  <li>Réaliser un planning de production  </li>
+  <li>Mettre à profit sa culture cinématographique </li>
+  <li>Savoir dessiner, photographier et cadrer pour mettre en image le scénario et réaliser le storyboard</li>
+  <li>Réaliser la mise en scène pour donner du sens aux intentions artistiques</li>
+  <li>Mettre à profit sa culture artistique pour réaliser la bible graphique : genre du film, les caractéristiques de l’univers et des personnages, des couleurs et le rendu attendu </li>
+  <li>Utiliser les logiciels d’Animation pour réaliser l’animatique 2D ou 3D du projet afin d’avoir une prévisualisation du film.. </li>
+</ol>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p> Dans le cadre d’un projet professionnel, le / la candidat(e) </p>
+<ul>
+  <li>présente devant des professionnels tous les éléments constitutifs de la conception d’un film d’animation : scénario, bible graphique, storyboard et animatique   </li>
+  <li>conçoit la direction artistique d’un film d’animation complet d’une durée d’environ 5 mins. Cette direction artistique est évaluée par un jury de professionnels internes et externes. </li>
+</ul>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP34360BC02</CODE>
+				<LIBELLE><![CDATA[Réalisation d’un film d’animation 3D en intégrant l’organisation et le pilotage en vue de sa diffusion ]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<ol>
+  <li>Parler l’Anglais </li>
+  <li>Communiquer régulièrement et clairement ses idées  </li>
+  <li>Décider des actions à mener en cas d’événements imprévus </li>
+  <li>Gérer les problèmes humains pour assurer une bonne ambiance </li>
+  <li>Connaître, comparer et évaluer les différentes technologies disponibles </li>
+  <li>Mettre en place une équipe de production et distribuer les tâches </li>
+  <li>Gérer et coordonner les plannings </li>
+  <li>Savoir évaluer la production de chacun des métiers de la chaîne de production </li>
+  <li>Réaliser la modélisation des personnages & des décors </li>
+  <li>Réaliser des poses des personnages </li>
+  <li>Caractériser l’animation 3D</li>
+  <li>Utiliser les principaux logiciels d’animation 3D </li>
+  <li> Observer et analyser des effets réels (ex : explosion, feu…) pour les retranscrire</li>
+  <li>Utiliser les logiciels d’effets spéciaux </li>
+  <li>Intégrer les effets spéciaux dans le film et les placer au bon moment </li>
+  <li>Utiliser les logiciels 3D de rendu pour finaliser le film en respectant la direction artistique du réalisateur. </li>
+  <li>Créer un univers artistique cohérent par la gestion de la lumière   </li>
+  <li>Connaitre les attentes des professionnels pour ajuster sa présentation</li>
+  <li>Justifier de ses choix narratifs et artistiques</li>
+  <li>Justifier de ses choix techniques </li>
+</ol>]]></LISTE_COMPETENCES>
+				<MODALITES_EVALUATION><![CDATA[<p>Réalisation d’un projet professionnel : le/la candidate réalise, en équipe, un film d’animation complet d’une durée d’environ 5 mins dont la production s’étend sur 18 mois   </p>
+<p>Mise en situation professionnelle : </p>
+<ul>
+  <li>Présentation du film devant Jury interne sur les étapes d’avancement du projet, de la réalisation de séquences d’animation et des effets spéciaux </li>
+  <li>Présentation du film abouti devant un jury de professionnels externes </li>
+</ul>]]></MODALITES_EVALUATION>
+			</BLOC_COMPETENCES>
+		</BLOCS_COMPETENCES>
+		<OBJECTIFS_CONTEXTE><![CDATA[<p> Depuis 2012, trois évolutions principales ont été mises en œuvre pour répondre aux besoins nouveaux du marché :    </p>
+<p>1. Augmentation du niveau de spécialisation pour répondre à des besoins techniques de plus en plus exigeants et ainsi répondre à des métiers en tension. La certification comprend, depuis 2018, deux spécialisations :  · Animation de personnages et de décors (Animateur 3D, Rigger ….) · Effets spéciaux (VFX) L’étude KyuLab de Juin 2018 cite notamment les métiers d’Animateurs et d’Expert VFX comme étant les plus en tension.   <br>
+<br>
+ 2. Augmentation de l’exigence sur la maîtrise de l’Anglais comme langue de travail. Les besoins des industries sont mondiaux. Dans la pratique, 30 à 35% des placements se font hors de France dont une majorité à Londres et Montréal. En outre, même au sein des studios français, la langue de travail est très majoritairement l’anglais.  </p>
+<p> 3. Formalisation de blocs de compétences métier en collaboration avec les professionnels afin de rendre notre certification plus lisible et ainsi mieux répondre aux demandes du secteur.   </p>
+<p><br></p>]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Oui</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>12699</ID_FICHE>
+		<NUMERO_FICHE>RNCP23399</NUMERO_FICHE>
+		<INTITULE><![CDATA[Sciences, Technologies, Santé, Mention Génie des Systèmes pour l'Aéronautique et les Transports,     Spécialité Ingénierie et Maintenance en Aéronautique]]></INTITULE>
+		<ABREGE>
+			<CODE>MASTER</CODE>
+			<LIBELLE><![CDATA[Master]]></LIBELLE>
+		</ABREGE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV7</NIVEAU>
+			<INTITULE>niveau7</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>250</CODE>
+				<INTITULE><![CDATA[Spécialites pluritechnologiques mécanique-electricite]]></INTITULE>
+			</NSF>
+			<NSF>
+				<CODE>253</CODE>
+				<INTITULE><![CDATA[Mécanique aéronautique et spatiale]]></INTITULE>
+			</NSF>
+			<NSF>
+				<CODE>255</CODE>
+				<INTITULE><![CDATA[Electricite, électronique]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Ministère chargé de l'enseignement supérieur]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Université de Bordeaux]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>Liste des activités visées par le diplôme, le titre ou le certificat.<br /> Le diplômé de la spécialité « Ingénierie et Maintenance en Aéronautique » peut prétendre à la fonction d’ingénieur système « maintenance aéronautique » qualifié en soutien logistique, avec trois spécialisations structure, avionique et systèmes, et support client. Il est capable d’intervenir dans le cadre de la maintenance opérationnelle et dans le soutien logistique intégré en conformité avec la réglementation Européenne EASA part 145.<br /><br /> Dans ce cadre il peut avoir la charge de responsable de projet, et a la capacité de concevoir, développer et mettre en oeuvre les nouveaux outils d’aide à la gestion du cycle de vie des systèmes aéronautiques et spatiaux (conception, soutien logistique intégré, reconfiguration des systèmes) tant pour les aspects « mécanique » (multi-structures) que pour les aspects « avionique ». Le diplômé des parcours avionique ou structure possédant une culture approfondie dans la maintenance et la modification des systèmes aéronautiques, Il peut donc également intégrer un bureau d’études en tant que support dans ce domaine. La spécialisation Support client permet d’intégrer un centre de maintenance pour gérer l’ensemble des opérations de maintenance et de support en fonction d’une expression de besoin d’un client. <br /><br /> Définition de l'emploi/métier :     <br /> Le diplômé assure le maintien en état opérationnel des structures des aéronefs ainsi que les moyens de test associés (parcours Structures aéronautiques et spatiales) ou les équipements avioniques et systèmes, des aéronefs ainsi que les bancs de test associées (Parcours Avionique et Systèmes Aéroportés). Le diplômé du parcours Support Client prend en charge la gestion de configurations et le management de la maintenance pour le compte d’un client. Quelque soit le parcours choisi, le diplômé définit et optimise les moyens à mettre en oeuvre pour maintenir ou améliorer les performances des méthodes et moyens nécessaires à la maintenance des aéronefs en termes de coûts et de taux d'utilisation des moyens. Il participe aux projets d'investissements en équipements nouveaux. Il anime et dirige des équipes de techniciens ou de cadres. Il est plutôt polyvalent dans un service interne de maintenance et plutôt spécialisé chez un prestataire de services. Il peut aussi négocier et gérer le budget de son service. <br /><br /></p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Compétences ou capacités attestées</p>
+<p>Le diplômé de la spécialité « Ingénierie et Maintenance en Aéronautique » intègre la problématique de maintenance dans les bureaux d’études et développements des systèmes aéronautiques et spatiaux et la gestion d’équipe. <br /><br /> Compétences techniques de base :    <br /><br /> Activités exercées :    <br /> - Planification des travaux de Maintenance.<br />- Etude et optimisation des méthodes d'entretien.<br />- Mise en oeuvre de la maintenance préventive, l'entretien curatif, le dépannage.<br />- Gestion et Suivi des travaux neufs.<br />- Prise en charge du Service après-vente.<br />- Participation aux activités liées à l'environnement et l'hygiène-sécurité.<br />- Gestion des services généraux.    <br /><br /> Responsabilités exercées :    <br /> - Animation d'une équipe.    <br /> - Animation et direction d'équipes de techniciens et d'agents de maîtrise.    <br /> - Animation et direction d'équipes d'ingénieurs et de cadres.    <br /><br /> Compétences associées :    <br /> - Maîtrise obligatoire de l'anglais aéronautique.    <br /><br /> Capacités liées à l'emploi :    <br /><br /> L'emploi/métier requiert d'être capable de :    <br /> - S'adapter en permanence aux nouvelles technologies et aux différents projets.    <br /> - Analyser et synthétiser des informations techniques et organisationnelles.    <br /> - Se conformer à des processus méthodologiques rigoureux.</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>Aéronautique , Maintenance , Logistique, Ingénierie, Transport aérien, Industrie, Technologie, Recherche</p>
+<p><br /> Les diplômés issus du Master GSAT IMA exercent leur activité dans le cadre des industries aéronautique et spatiale, et des sociétés de services associés. Cela comporte les grands maîtres d'oeuvre et systémiers jusqu'aux PME - spécialisées dans l'étude, le développement, la réalisation, la commercialisation et la maintenance de tous programmes et matériels aéronautiques et spatiaux.    <br /><br /></p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Type d'emplois: <br /> Ingénieur et cadre technique en études et développement en Sciences et technologies    <br /> Ingénieur et cadre de la maintenance, de l'entretien    <br /> Ingénieur et cadre de la logistique, du planning et de l'ordonnancement    <br /> Rédacteur technique    <br /><br /> Parcours Structures Aéronautiques et Spatiales    <br /><br /> Ingénieur Maintenance Aéronautique -Structure    <br /> Ingénieur Bureau Technique Structure     <br /> Ingénieur Support Opérationnel Structure     <br /><br /> Parcours Avionique et Systèmes Aéroportés    <br /><br /> Ingénieur Maintenance Aéronautique, Avionique et systèmes, moyens d'essais    <br /> Ingénieur Bureau Technique, Avionique et systèmes    <br /> Ingénieur Support Opérationnel Avionique et systèmes, moyens d'essais</p>
+<p>Parcours Support Client</p>
+<p>Ingénieur Maintenance Aéronautique, support client   <br /> Ingénieur Bureau Technique, support client     <br /> Ingénieur gestion de configuration</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>H1207</CODE>
+				<LIBELLE><![CDATA[Rédaction technique]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>I1102</CODE>
+				<LIBELLE><![CDATA[Management et ingénierie de maintenance industrielle]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>H1402</CODE>
+				<LIBELLE><![CDATA[Management et ingénierie méthodes et industrialisation]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<p>Enseignants ayant contribué aux enseignements (Loi n° 84-52 du 26 janvier 1984 modifiée sur l'enseignement supérieur)</p>]]></JURY_FI>
+		<SI_JURY_CA>Oui</SI_JURY_CA>
+		<JURY_CA><![CDATA[<p>Enseignants ayant contribué aux enseignements (Loi n° 84-52 du 26 janvier 1984 modifiée sur l'enseignement supérieur)</p>]]></JURY_CA>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Enseignants ayant contribué aux enseignements (Loi n° 84-52 du 26 janvier 1984 modifiée sur l'enseignement supérieur)</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Enseignants ayant contribué aux enseignements (Loi n° 84-52 du 26 janvier 1984 modifiée sur l'enseignement supérieur)</p>]]></JURY_CQ>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Jury d'enseignants et de professionnels conformément au décret VAE (Loi de modernisation sociale n° 2002-73 du 17 janvier 2002)</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[Arrêté du  25 avril 2002, publié au JO du 27 avril 2002 Arrêté d'habilitation    du  3 septembre 2007    <br /> <br />
+]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<DATE_FIN_ENREGISTREMENT>31/10/2019</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement de droit</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>4395</ID_FICHE>
+		<NUMERO_FICHE>RNCP13339</NUMERO_FICHE>
+		<INTITULE><![CDATA[Secrétaire médical]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<NIVEAU>NIV4</NIVEAU>
+			<INTITULE>niveau4</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CODES_NSF>
+			<NSF>
+				<CODE>324</CODE>
+				<INTITULE><![CDATA[Secrétariat, bureautique]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>31849010900168</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[CULTURE FORMATION CENTRE PRIVE ENSEIGNEM]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Culture et formation]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>La / le secrétaire médical(e) est un maillon central, en articulation permanente avec les autres personnels de l’équipe. Elle est au carrefour de trois mondes : son milieu professionnel propre, l’administration et le monde extérieur. Elle doit passer incessamment d’un registre à un autre : celui des usagers ou des patients, celui des collègues soignants ou travailleurs sociaux, celui de l’institution. Elle a une double fonction. D’une part, elle a une mission d’accueil essentiel pour le bon fonctionnement de la structure. Cette mission a beaucoup évolué ces dernières années : il lui est demandé d’aller jusqu’à l’évaluation de la demande, de façon à préparer le travail des professionnels mais sans franchir la frontière de ses propres compétences. D’autre part, elle assiste une équipe de professionnels et assure la gestion administrative de sa structure sous l’autorité d’un ou plusieurs responsables.<br />Liste des activités :<br />•Accueillir et orienter les patients et/ou usagers.<br />•Produire des documents professionnels.<br />•Gérer les dossiers patients.<br />•Gérer les tâches administratives et comptables.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Le (la) titulaire est capable de :<br />•prendre en charge la ou les demandes des usagers, notamment en accueillant et en orientant dans le service ou dans des services extérieurs,<br />•appliquer les procédures liées au respect du secret médical et professionnel, à respecter les droits des patients liés à la transmission des informations du dossier médical ou social,<br />•produire des documents professionnels, ce qui implique de traiter et rechercher les informations en vue de répondre de manière pertinente en utilisant des logiciels professionnels,<br />•planifier des activités en créant et en utilisant les supports nécessaires à l’organisation des activités,<br />•gérer et archiver les données des dossiers des usagers, en collectant les documents et les informations nécessaires à la création du dossier et à son suivi,<br />•assurer les tâches administratives et comptables.</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>Structures médicales et paramédicales<br />Structures sanitaires et sociales<br />Structures médicosociales</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Secrétaire médicale <br />secrétaire médico-sociale </p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>M1609</CODE>
+				<LIBELLE><![CDATA[Secrétariat et assistanat médical ou médico-social]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FI>Oui</SI_JURY_FI>
+		<JURY_FI><![CDATA[<p>50% de professionnels (pour moitié employeurs), 50 % de formateurs</p>]]></JURY_FI>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>50% de professionnels (pour moitié employeurs), 50 % de formateurs</p>]]></JURY_FC>
+		<SI_JURY_CL>Oui</SI_JURY_CL>
+		<JURY_CL><![CDATA[<p>50 % de professionnels (pour moitié employeurs), 50 % de formateurs</p>]]></JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>50% de professionnels (pour moitié employeurs), 50 % de formateurs</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 17 novembre 2011 publié au Journal Officiel du 25 novembre 2011 portant enregistrement au répertoire national des certifications  professionnelles. Enregistrement pour trois ans, au niveau IV, sous l'intitulé "Secrétaire médical(e)" avec effet au 3 avril 2009, jusqu'au 25 novembre 2014.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<PUBLICATION_DECRET_AUTRE>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 27 décembre 2018 publié au Journal Officiel du 4 janvier 2019 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour un an avec effet au 4 janvier 2019 jusqu'au 4 janvier 2020.</p>
+<p>Arrêté du 31 janvier 2018 publié au Journal Officiel du 8 février 2018 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour un an, au niveau IV, sous l'intitulé "Secrétaire médical" avec effet au 30 janvier 2018, jusqu'au 8 février 2019.</p>
+<p>Arrêté du 9 janvier 2015 publié au Journal Officiel du 30 janvier 2015 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour trois ans, au niveau IV, code NSF 324t, sous l'intitulé "Secrétaire médicale" avec effet au 25 novembre 2014, jusqu'au 30 janvier 2018.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_AUTRE>
+		<DATE_PREMIER_JO>25/11/2011</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>04/01/2019</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<p>www.culture-formation.fr</p><br/> <a href = "http://www.culture-formation.fr">http://www.culture-formation.fr </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>04/01/2020</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+	<FICHE>
+		<ID_FICHE>3808</ID_FICHE>
+		<NUMERO_FICHE>RNCP27861</NUMERO_FICHE>
+		<INTITULE><![CDATA[CQP Agent de cuisine.]]></INTITULE>
+		<ETAT_FICHE>Publiée</ETAT_FICHE>
+		<NOMENCLATURE_EUROPE>
+			<INTITULE>Sans niveau – le positionnement dans le cadre de national
+				des certifications professionnelles est non déterminé</INTITULE>
+		</NOMENCLATURE_EUROPE>
+		<CCN_1>
+			<NUMERO>3275</NUMERO>
+			<LIBELLE><![CDATA[Espaces, de loisirs, d'attractions et culturels]]></LIBELLE>
+		</CCN_1>
+		<CODES_NSF>
+			<NSF>
+				<CODE>334t</CODE>
+				<INTITULE><![CDATA[Réception, hébergement, service de restauration, accompagnement]]></INTITULE>
+			</NSF>
+		</CODES_NSF>
+		<CERTIFICATEURS>
+			<CERTIFICATEUR>
+				<SIRET_CERTIFICATEUR>39455232700063</SIRET_CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[SYND NAT ESPACE LOISIRS ATTRACTIONS CULT]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+			<CERTIFICATEUR>
+				<NOM_CERTIFICATEUR><![CDATA[Commission paritaire nationale de l'emploi et de la formation professionnelle des espaces de loisirs, d'attractions et culturels (CPNEFP) - Syndicat national des espaces de loisirs, d'attractions et culturels (SNELAC)]]></NOM_CERTIFICATEUR>
+			</CERTIFICATEUR>
+		</CERTIFICATEURS>
+		<ACTIVITES_VISEES><![CDATA[<p>L’Agent de cuisine réalise une prestation culinaire en restaurant dans un espace de loisirs, un parc d’attractions ou un espace culturel.<br>
+Il prépare son poste de travail avant l’arrivée des clients et gère l’approvisionnement des produits dont il a besoin. Il met en œuvre des techniques de préparations culinaires en respectant scrupuleusement les règles d’hygiène et de sécurité alimentaires et les fiches techniques qui sont mises à disposition par sa hiérarchie. Il prépare des entrées et des desserts simples, des  plats chauds  en cuisine, au poste grillades ou rôtissoire.<br>
+Il doit apporter une attention particulière à la présentation et l’harmonie des assiettes et/ou des plats qu’il prépare.<br>
+Il travaille généralement en cuisine et parfois à la vue de la clientèle, sans avoir de contact direct avec elle. Il prépare, en amont de l’assemblage ou de la cuisson, les matières premières qu’il cuisine. L’emploi type se définit par la fonction de « commis de cuisine » dans les grosses brigades et cuisinier dans les petites équipes.</p>
+<p><br>
+Liste des activités visées par le diplôme, le titre ou le certificat :<br>
+Activités principales<br>
+Préparation du poste de travail avant production<br>
+Préparation, assemblage des entrées et des desserts<br>
+Confection de plats chauds cuisinés<br>
+Réalisation de cuissons au grill et à la rôtissoire.<br>
+Activités sous-jacentes :<br>
+Application permanente des règles d’hygiène et de sécurité des biens et des personnes, conformément aux principes mis en place dans l'entreprise.<br>
+Adoption de comportements éco- responsable au travail.</p>]]></ACTIVITES_VISEES>
+		<CAPACITES_ATTESTEES><![CDATA[<p>Capacités attestées :<br />Gérer un stock de matières premières alimentaires.<br />Travailler les fruits et légumes.<br />Remettre en température et mettre en attente les produits congelés.<br />Cuire et refroidir les œufs et les viandes blanches.<br />Trancher les viandes froides et les charcuteries.<br />Assembler, assaisonner des salades, hors d’œuvre et sandwichs.<br />Assembler des desserts.<br />Stocker et conditionner les plats préparés.<br />Dresser les assiettes.<br />Cuire et assembler les matières premières.<br />Cuire et accommoder les garnitures de légumes, y compris les purées.<br />Réaliser des sauces à base de produits alimentaires intermédiaires.<br />Griller, frire, rôtir et découper des aliments.<br />Détecter les anomalies dans le fonctionnement des équipements.<br />Détecter et procéder au retrait des produits inutilisables ou hors norme.<br />Appliquer les règles d’hygiène en Restauration.<br />Appliquer les consignes de l’entreprise en termes de développement durable.</p>]]></CAPACITES_ATTESTEES>
+		<SECTEURS_ACTIVITE><![CDATA[<p>L’agent de cuisine exerce son activité dans un restaurant intégré au sein d’un espace de loisirs, un parc d’attractions ou un espace culturel.</p>]]></SECTEURS_ACTIVITE>
+		<TYPE_EMPLOI_ACCESSIBLES><![CDATA[<p>Commis de cuisine, cuisinier</p>]]></TYPE_EMPLOI_ACCESSIBLES>
+		<CODES_ROME>
+			<ROME>
+				<CODE>G1602</CODE>
+				<LIBELLE><![CDATA[Personnel de cuisine]]></LIBELLE>
+			</ROME>
+			<ROME>
+				<CODE>G1603</CODE>
+				<LIBELLE><![CDATA[Personnel polyvalent en restauration]]></LIBELLE>
+			</ROME>
+		</CODES_ROME>
+		<REGLEMENTATIONS_ACTIVITES><![CDATA[A compléter (Reprise)]]></REGLEMENTATIONS_ACTIVITES>
+		<SI_JURY_FC>Oui</SI_JURY_FC>
+		<JURY_FC><![CDATA[<p>Jury 100% professionnel respectant la parité employeurs/salariés.</p>]]></JURY_FC>
+		<SI_JURY_CQ>Oui</SI_JURY_CQ>
+		<JURY_CQ><![CDATA[<p>Jury 100% professionnel respectant la parité employeurs/salariés.</p>]]></JURY_CQ>
+		<SI_JURY_CL>Oui</SI_JURY_CL>
+		<JURY_CL><![CDATA[<p>Jury 100% professionnel respectant la parité employeurs/salariés.</p>]]></JURY_CL>
+		<SI_JURY_VAE>Oui</SI_JURY_VAE>
+		<JURY_VAE><![CDATA[<p>Jury 100% professionnel respectant la parité employeurs/salariés.</p>]]></JURY_VAE>
+		<ACCESSIBLE_NOUVELLE_CALEDONIE>Non</ACCESSIBLE_NOUVELLE_CALEDONIE>
+		<ACCESSIBLE_POLYNESIE_FRANCAISE>Non</ACCESSIBLE_POLYNESIE_FRANCAISE>
+		<PUBLICATION_DECRET_CREATION>
+			<PUBLICATION_JO>
+				<TITRE><![CDATA[<p>Arrêté du 23 février 2017 publié au Journal Officiel du 03 mars 2017 portant enregistrement au répertoire national des certifications professionnelles. Enregistrement pour trois ans, sous l'intitulé "Certificat de qualification professionnelle Agent de cuisine" avec effet au 03 mars 2017, jusqu'au 03 mars 2020.</p>]]></TITRE>
+			</PUBLICATION_JO>
+		</PUBLICATION_DECRET_CREATION>
+		<DATE_PREMIER_JO>03/03/2017</DATE_PREMIER_JO>
+		<DATE_DERNIER_JO>03/03/2017</DATE_DERNIER_JO>
+		<LIEN_STATISTIQUES><![CDATA[<p>contact@snelac.com</p><br/> <a href = "http://www.snelac.com">SNELAC </a>]]></LIEN_STATISTIQUES>
+		<DATE_FIN_ENREGISTREMENT>03/03/2020</DATE_FIN_ENREGISTREMENT>
+		<TYPE_ENREGISTREMENT>Enregistrement sur demande</TYPE_ENREGISTREMENT>
+		<BLOCS_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP27861BC01</CODE>
+				<LIBELLE><![CDATA[ Préparation du poste de travail avant production]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Compétences évaluées :</strong><br />•Gérer un stock de matières premières alimentaires : Effectuer des commandes, Réceptionner et contrôler (qualitativement et quantitativement) les produits, Stocker et déstocker les produits<br />•Travailler les légumes et les fruits avant utilisation : Laver, décontaminer, éplucher, tailler, ciseler, Tourner, historier.<br />•Remettre en température et mettre en attente les produits congelés (viandes, poissons, desserts, Plats cuisinés à l’avance (PCA).<br /><strong>Modalités d'évaluation :</strong> <br />Le candidat est évalué par une observation en continu réalisée sur le poste de travail, conjointement par un formateur et son tuteur, à l’aide des grilles d’évaluation contenues dans le livret de suivi. Le formateur et le tuteur émettent un avis sur l’acquisition ou non des compétences observées.</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP27861BC02</CODE>
+				<LIBELLE><![CDATA[Confection des plats chauds cuisinés]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Compétences évaluées :</strong><br />•Cuire et assembler les produits :Poêler les viandes, Cuire dans un liquide.<br />•Cuire accommoder les garnitures de légumes y compris des purées.<br />•Réalisation de sauces à base de PAI (Produits Alimentaires intermédiaires).<br />•Dresser les assiettes. <br /><strong>Modalités d'évaluation :</strong> <br />Le candidat est évalué par une observation en continu réalisée sur le poste de travail, conjointement par un formateur et son tuteur, à l’aide des grilles d’évaluation contenues dans le livret de suivi. Le formateur et le tuteur émettent un avis sur l’acquisition ou non des compétences observées.</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP27861BC03</CODE>
+				<LIBELLE><![CDATA[Application des règles d’hygiène alimentaire et de sécurité des biens et des personnes.]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Compétences évaluées :</strong><br />•Respecter, dans toutes les activités du poste, les normes d’hygiène mise en place et imposées dans l’entreprise.<br />•Vérifier le bon fonctionnement des équipements (chambre froide, vitrines réfrigérées, ventilations…).<br />•Détecter et procéder au retrait des produits inutilisables ou hors normes.<br />• Prendre les mesures nécessaires afin que le poste de travail soit conforme aux normes d’hygiènes imposées dans l’entreprise.<br /><strong>Modalités d'évaluation :</strong> <br />Le candidat est évalué par une observation en continu réalisée sur le poste de travail, conjointement par un formateur et son tuteur, à l’aide des grilles d’évaluation contenues dans le livret de suivi. Le formateur et le tuteur émettent un avis sur l’acquisition ou non des compétences observées.</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP27861BC04</CODE>
+				<LIBELLE><![CDATA[Adopter un comportement écoresponsable au travail]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Compétences évaluées :</strong><br />•Appliquer les consignes de l’entreprise en termes de développement durable (tri et recyclage des déchets, économie d’énergie…<br /><strong>Modalités d'évaluation :</strong> <br />Le candidat est évalué par une observation en continu réalisée sur le poste de travail, conjointement par un formateur et son tuteur, à l’aide des grilles d’évaluation contenues dans le livret de suivi. Le formateur et le tuteur émettent un avis sur l’acquisition ou non des compétences observées.</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP27861BC05</CODE>
+				<LIBELLE><![CDATA[ Préparation des entrées et des desserts]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Compétences évaluées :</strong><br />•Cuire et refroidir des œufs, des viandes blanches.<br />•Trancher des viandes froides et des charcuteries.<br />•Assembler, assaisonner des salades, hors d’œuvre, sandwichs.<br />•Assembler des desserts.<br />•Stocker et conditionner les plats préparés.<br />•Dresser les assiettes.<br /><strong>Modalités d'évaluation :</strong> <br />Le candidat est évalué par une observation en continu réalisée sur le poste de travail, conjointement par un formateur et son tuteur, à l’aide des grilles d’évaluation contenues dans le livret de suivi. Le formateur et le tuteur émettent un avis sur l’acquisition ou non des compétences observées.</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+			<BLOC_COMPETENCES>
+				<CODE>RNCP27861BC06</CODE>
+				<LIBELLE><![CDATA[Réalisation des cuissons au grill et à la rotissoire]]></LIBELLE>
+				<LISTE_COMPETENCES><![CDATA[<p><strong>Compétences évaluées :</strong><br />•Griller des viandes et des poissons.<br />•Frire des aliments.<br />•Rôtir des viandes.<br />•Découper les viandes et les poissons cuits.<br />•Dresser les assiettes.<br /><strong>Modalités d'évaluation :</strong> <br />Le candidat est évalué par une observation en continu réalisée sur le poste de travail, conjointement par un formateur et son tuteur, à l’aide des grilles d’évaluation contenues dans le livret de suivi. Le formateur et le tuteur émettent un avis sur l’acquisition ou non des compétences observées.</p>]]></LISTE_COMPETENCES>
+			</BLOC_COMPETENCES>
+		</BLOCS_COMPETENCES>
+		<OBJECTIFS_CONTEXTE><![CDATA[A compléter (Reprise)]]></OBJECTIFS_CONTEXTE>
+		<VALIDATION_PARTIELLE>Non</VALIDATION_PARTIELLE>
+		<ACTIF>Non</ACTIF>
+	</FICHE>
+</FICHES>
