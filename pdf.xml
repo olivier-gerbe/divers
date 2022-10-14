@@ -1,0 +1,1017 @@
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&amp;#160;">]>
+<div>
+	<table id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0"
+		style="" class="undefined">
+		<tr id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0"
+			style="" class="undefined">
+			<td id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0"
+				style="border:none;width:40%;" class="undefined">
+				<span
+					id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0"
+					class="ihelp"></span>
+				<table
+					id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0"
+					style="width:100%" class="undefined">
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-0"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-0-0"
+							style="font-size:18px;background-color:#548dd4;color:#dbe5f1;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-0-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Mes coordonnées</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0"
+								class="ihelp"></span>
+							<table
+								id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0"
+								style="" class="undefined">
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-0-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_d80cef86-2deb-464f-8cda-8837ac42c393"
+											style="">
+											<div uuid="img_d80cef86-2deb-464f-8cda-8837ac42c393">
+												<img style="display:inline;"
+													id="image_d80cef86-2deb-464f-8cda-8837ac42c393"
+													src="../../../../../../karuta-backend3.0e/resources/resource/file/d80cef86-2deb-464f-8cda-8837ac42c393?lang=fr&amp;timestamp=1611093020612"
+													width="150px" alt="" />
+											</div>
+										</span>
+										<span id="reshelp_d80cef86-2deb-464f-8cda-8837ac42c393"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-1"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-1-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-1-0"
+											class="ihelp"></span>
+										<span id="dashboard_2c731667-2115-415b-b3a6-d5588a469cec"
+											style="">James</span>
+										<span id="reshelp_2c731667-2115-415b-b3a6-d5588a469cec"></span>
+										<span id="txtundefined" style="" class="undefined">
+										</span>
+										<span id="dashboard_fea30572-af0f-4345-9a99-37336d95c7c8"
+											style="">Bond</span>
+										<span id="reshelp_fea30572-af0f-4345-9a99-37336d95c7c8"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-2"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-2-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-2-0"
+											class="ihelp"></span>
+										<span id="dashboard_65a42882-4d02-45c2-a087-63cb897b8146"
+											style="">007@mi5.uk</span>
+										<span id="reshelp_65a42882-4d02-45c2-a087-63cb897b8146"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-3"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-3-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-1-0-0-3-0"
+											class="ihelp"></span>
+										<span id="txtundefined" style="" class="undefined">Permis </span>
+										<span id="dashboard_d2351ade-a400-4615-81f5-418f0e8ed4dd"
+											style="">de tuer</span>
+										<span id="reshelp_d2351ade-a400-4615-81f5-418f0e8ed4dd"></span>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-2"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-2-0"
+							style="font-size:18px;background-color:#548dd4;color:#dbe5f1;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-2-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Langues</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-3"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-3-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-3-0"
+								class="ihelp"></span>
+							<span id="dashboard_d3fbb955-d5c6-4944-b0f0-4a962a1ab300"
+								style="">
+								<span class="cs" style="background-position:center;">
+									<span name="label">Tchèque</span>
+								</span>
+							</span>
+							<span id="reshelp_d3fbb955-d5c6-4944-b0f0-4a962a1ab300"></span>
+							<span id="txt93faae5d-59d9-11eb-b312-fa163ebfbd00" style=""
+								class="undefined">
+								<br />
+							</span>
+							<span id="dashboard_93faae5d-59d9-11eb-b312-fa163ebfbd00"
+								style="">
+								<span class="no" style="background-position:center;">
+									<span name="label">Norvégien</span>
+								</span>
+							</span>
+							<span id="reshelp_93faae5d-59d9-11eb-b312-fa163ebfbd00"></span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-4"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-4-0"
+							style="font-size:18px;background-color:#548dd4;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-4-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Informatique</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-5"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-5-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-5-0"
+								class="ihelp"></span>
+							<span id="dashboard_85526de5-5a81-11eb-b312-fa163ebfbd00"
+								style="">
+								<span>Powerpoint</span>
+							</span>
+							<span id="reshelp_85526de5-5a81-11eb-b312-fa163ebfbd00"></span>
+							<span id="txt85526de5-5a81-11eb-b312-fa163ebfbd00" style=""
+								class="undefined">
+								<br />
+							</span>
+							<span id="dashboard_8f75f875-5a81-11eb-b312-fa163ebfbd00"
+								style="">
+								<span>Photoshop</span>
+							</span>
+							<span id="reshelp_8f75f875-5a81-11eb-b312-fa163ebfbd00"></span>
+							<span id="txt8f75f875-5a81-11eb-b312-fa163ebfbd00" style=""
+								class="undefined">
+								<br />
+							</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-6"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-6-0"
+							style="font-size:18px;background-color:#548dd4;color:#dbe5f1;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-6-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Centres d'intérêts</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0"
+								class="ihelp"></span>
+							<table
+								id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0"
+								style="" class="undefined">
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0-0-0-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0-0-0-0-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0-0-0-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_b6c78a16-5a81-11eb-b312-fa163ebfbd00"
+											style="">Ski alpin</span>
+										<span id="reshelp_b6c78a16-5a81-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0-1"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0-1-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-0-0-7-0-0-1-0"
+											class="ihelp"></span>
+										<span id="dashboard_9c2754b2-5a81-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Littérature</span>
+										</span>
+										<span id="reshelp_9c2754b2-5a81-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt9c2754b2-5a81-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">
+										</span>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-1"
+				style="border:none;width:5%;" class="undefined">
+				<span
+					id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-1"
+					class="ihelp"></span>
+				<span id="txtundefined" style="" class="undefined">
+				</span>
+			</td>
+			<td id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2"
+				style="border:none;width:50%;" class="undefined">
+				<span
+					id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2"
+					class="ihelp"></span>
+				<table
+					id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0"
+					style="" class="undefined">
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-0"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-0-0"
+							style="font-weight:bold;font-size:18px;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-0-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Objectif visé : </span>
+							<span id="dashboard_3f692260-5a93-11eb-b312-fa163ebfbd00"
+								style="">Assistant comptable</span>
+							<span id="reshelp_3f692260-5a93-11eb-b312-fa163ebfbd00"></span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-1"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-1-0"
+							style="font-weight:bold;font-size:18px;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-1-0"
+								class="ihelp"></span>
+							<span id="dashboard_6c930cd6-59d7-11eb-b312-fa163ebfbd00"
+								style="display:none">@STA</span>
+							<span id="reshelp_6c930cd6-59d7-11eb-b312-fa163ebfbd00"></span>
+							<span id="txtundefined" style="" class="undefined">stage du </span>
+							<span id="dashboard_c1763052-5a8b-11eb-b312-fa163ebfbd00"
+								style="">2021/01/04</span>
+							<span id="reshelp_c1763052-5a8b-11eb-b312-fa163ebfbd00"></span>
+							<span id="txtundefined" style="" class="undefined"> au </span>
+							<span id="dashboard_d2149e0e-5a8b-11eb-b312-fa163ebfbd00"
+								style="">2021/01/30</span>
+							<span id="reshelp_d2149e0e-5a8b-11eb-b312-fa163ebfbd00"></span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-2"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-2-0"
+							style="font-size:18px;background-color:#548dd4;color:#dbe5f1;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-2-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Savoir-faire</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0"
+								class="ihelp"></span>
+							<table
+								id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0"
+								style="" class="undefined">
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-0-0-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-0-0-0-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-0-0-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_ad5da33c-5a94-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="SF1" style="background-position:center;">
+												<span name="label">Assurer l'accueil physique et téléphonique
+													des clients</span>
+											</span>
+										</span>
+										<span id="reshelp_ad5da33c-5a94-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-0-1-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-0-1-0-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-0-1-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_ad775a75-5a94-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="SF2" style="background-position:center;">
+												<span name="label">Recueillir les besoins des clients et les
+													orienter</span>
+											</span>
+										</span>
+										<span id="reshelp_ad775a75-5a94-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-1-0-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-1-0-0-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-1-0-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_b5c62413-5a94-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Organiser son temps de travail (priorisation)</span>
+										</span>
+										<span id="reshelp_b5c62413-5a94-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-1-1-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-1-1-0-0"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-3-0-0-0-0-1-1-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_b5e14109-5a94-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Ecouter et prendre du recul face à une situation</span>
+										</span>
+										<span id="reshelp_b5e14109-5a94-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-4"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-4-0"
+							style="font-size:18px;background-color:#548dd4;color:#dbe5f1;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-4-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Expériences
+								professionnelles</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0"
+								class="ihelp"></span>
+							<table
+								id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0"
+								style="" class="undefined">
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-0-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-0-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-0-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_1855a066-59d4-11eb-b312-fa163ebfbd00"
+											style="">1 mois</span>
+										<span id="reshelp_1855a066-59d4-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-0-0-1"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-0-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_1855a0d2-59d4-11eb-b312-fa163ebfbd00"
+											style="">2010</span>
+										<span id="reshelp_1855a0d2-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1855a30d-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_1855a066-59d4-11eb-b312-fa163ebfbd00"
+											style="">1 mois</span>
+										<span id="reshelp_1855a066-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1855a30d-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_1855a30d-59d4-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>autre emploi etudiant</span>
+										</span>
+										<span id="reshelp_1855a30d-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt18559dd9-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_18559dd9-59d4-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Organisme #2</span>
+										</span>
+										<span id="reshelp_18559dd9-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1855a30d-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_18559d14-59d4-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_18559d14-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1855a30d-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_18559f84-59d4-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label">
+												</span>
+											</span>
+										</span>
+										<span id="reshelp_18559f84-59d4-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-1-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-1-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-1-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_3a097460-59d5-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_3a097460-59d5-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-1-0-1"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-1-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_3a0974d6-59d5-11eb-b312-fa163ebfbd00"
+											style="">2013</span>
+										<span id="reshelp_3a0974d6-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3a0976b5-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3a0976b5-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Projet 1</span>
+										</span>
+										<span id="reshelp_3a0976b5-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3a0973ec-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3a0973ec-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Médrano</span>
+										</span>
+										<span id="reshelp_3a0973ec-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3a0976b5-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3a097302-59d5-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_3a097302-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3a0976b5-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3a0976b5-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="reshelp_3a0976b5-59d5-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-2-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-2-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-2-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_1009a9f1-59d5-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_1009a9f1-59d5-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-2-0-1"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-2-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_1009aa4f-59d5-11eb-b312-fa163ebfbd00"
+											style="">2014</span>
+										<span id="reshelp_1009aa4f-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1009ac01-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_1009ac01-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Mission #1</span>
+										</span>
+										<span id="reshelp_1009ac01-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1009a934-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_1009a934-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Organisme #3</span>
+										</span>
+										<span id="reshelp_1009a934-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1009ac01-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_1009a845-59d5-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_1009a845-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt1009ac01-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_1009a993-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label">
+												</span>
+											</span>
+										</span>
+										<span id="reshelp_1009a993-59d5-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-3-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-3-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-3-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_8d6e82b7-59d5-11eb-b312-fa163ebfbd00"
+											style="">2 jours</span>
+										<span id="reshelp_8d6e82b7-59d5-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-3-0-1"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-3-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_8d6e831d-59d5-11eb-b312-fa163ebfbd00"
+											style="">2018</span>
+										<span id="reshelp_8d6e831d-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt8d6e849a-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_8d6e82b7-59d5-11eb-b312-fa163ebfbd00"
+											style="">2 jours</span>
+										<span id="reshelp_8d6e82b7-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt8d6e849a-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_8d6e849a-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Autre expérience #23</span>
+										</span>
+										<span id="reshelp_8d6e849a-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt8d6e81f3-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_8d6e81f3-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Organisme à modifier</span>
+										</span>
+										<span id="reshelp_8d6e81f3-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt8d6e849a-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_8d6e812e-59d5-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_8d6e812e-59d5-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt8d6e849a-59d5-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_8d6e8255-59d5-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label">
+												</span>
+											</span>
+										</span>
+										<span id="reshelp_8d6e8255-59d5-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-4-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-4-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-4-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_0103805f-59d4-11eb-b312-fa163ebfbd00"
+											style="">2 mois</span>
+										<span id="reshelp_0103805f-59d4-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-4-0-1"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-4-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_010380d7-59d4-11eb-b312-fa163ebfbd00"
+											style="">2019</span>
+										<span id="reshelp_010380d7-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt0103821e-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_0103805f-59d4-11eb-b312-fa163ebfbd00"
+											style="">2 mois</span>
+										<span id="reshelp_0103805f-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt0103821e-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_0103821e-59d4-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Aide Agricole / Vendangeur</span>
+										</span>
+										<span id="reshelp_0103821e-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt01037f7f-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_01037f7f-59d4-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Organisme #1</span>
+										</span>
+										<span id="reshelp_01037f7f-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt0103821e-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_01037ea3-59d4-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_01037ea3-59d4-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt0103821e-59d4-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_01037ff0-59d4-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label">
+												</span>
+											</span>
+										</span>
+										<span id="reshelp_01037ff0-59d4-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-5-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-5-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-5-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_3f6921a1-5a93-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_3f6921a1-5a93-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-5-0-1"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-5-0-0-0-5-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_3f692201-5a93-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_3f692201-5a93-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3f692380-5a93-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3f692380-5a93-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Stage\Alternance (à modifier)</span>
+										</span>
+										<span id="reshelp_3f692380-5a93-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3f6920e6-5a93-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3f6920e6-5a93-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Organisme à modifier</span>
+										</span>
+										<span id="reshelp_3f6920e6-5a93-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3f692380-5a93-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3f692027-5a93-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_3f692027-5a93-11eb-b312-fa163ebfbd00"></span>
+										<span id="txt3f692380-5a93-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_3f692145-5a93-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label">
+												</span>
+											</span>
+										</span>
+										<span id="reshelp_3f692145-5a93-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-6"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-6-0"
+							style="font-size:18px;background-color:#548dd4;color:#dbe5f1;border:none;"
+							class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-6-0"
+								class="ihelp"></span>
+							<span id="txtundefined" style="" class="undefined">Formations</span>
+						</td>
+					</tr>
+					<tr
+						id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7"
+						style="" class="undefined">
+						<td
+							id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0"
+							style="border:none;" class="undefined">
+							<span
+								id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0"
+								class="ihelp"></span>
+							<table
+								id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0"
+								style="" class="undefined">
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_ed7a57a5-59d9-11eb-b312-fa163ebfbd00"
+											style="">1981</span>
+										<span id="reshelp_ed7a57a5-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-1"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_ed7a5a1b-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="reshelp_ed7a5a1b-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-2"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-2"
+											class="ihelp"></span>
+										<span id="dashboard_ed7a5a1b-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="reshelp_ed7a5a1b-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-3"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-0-0-3"
+											class="ihelp"></span>
+										<span id="dashboard_ed7a57a5-59d9-11eb-b312-fa163ebfbd00"
+											style="">1981</span>
+										<span id="reshelp_ed7a57a5-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txted7a5a1b-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined"> ;</span>
+										<span id="dashboard_ed7a5a1b-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Formation</span>
+										</span>
+										<span id="reshelp_ed7a5a1b-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txted7a5a1b-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_ed7a570b-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Nom de l'organisme</span>
+										</span>
+										<span id="reshelp_ed7a570b-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txted7a5a1b-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_ed7a547d-59d9-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_ed7a547d-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_e657778a-59d9-11eb-b312-fa163ebfbd00"
+											style="">1991</span>
+										<span id="reshelp_e657778a-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-1"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_e65778a7-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="reshelp_e65778a7-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-2"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-2"
+											class="ihelp"></span>
+										<span id="dashboard_e657772c-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label"></span>
+											</span>
+										</span>
+										<span id="reshelp_e657772c-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-3"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-1-0-3"
+											class="ihelp"></span>
+										<span id="dashboard_e657778a-59d9-11eb-b312-fa163ebfbd00"
+											style="">1991</span>
+										<span id="reshelp_e657778a-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txte65778a7-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined"> ;</span>
+										<span id="dashboard_e65778a7-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Formation académique</span>
+										</span>
+										<span id="reshelp_e65778a7-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txte65778a7-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_e65776ca-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Nom de l'organisme</span>
+										</span>
+										<span id="reshelp_e65776ca-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txte65778a7-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_e6577550-59d9-11eb-b312-fa163ebfbd00"
+											style=""></span>
+										<span id="reshelp_e6577550-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txte65778a7-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_e657772c-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label"></span>
+											</span>
+										</span>
+										<span id="reshelp_e657772c-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+								<tr
+									id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0"
+									style="" class="undefined">
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-0"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-0"
+											class="ihelp"></span>
+										<span id="dashboard_d545c647-59d9-11eb-b312-fa163ebfbd00"
+											style="">2002</span>
+										<span id="reshelp_d545c647-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-1"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-1"
+											class="ihelp"></span>
+										<span id="dashboard_d545c586-59d9-11eb-b312-fa163ebfbd00"
+											style="">Assistant gestion bancaire</span>
+										<span id="reshelp_d545c586-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-2"
+										style="border:none;display:none" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-2"
+											class="ihelp"></span>
+										<span id="dashboard_d545c5e6-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label"></span>
+											</span>
+										</span>
+										<span id="reshelp_d545c5e6-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+									<td
+										id="dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-3"
+										style="border:none;" class="undefined">
+										<span
+											id="help_dashboard_72c5a19e-59b5-11eb-b312-fa163ebfbd00-0-0-2-0-7-0-0-0-2-0-3"
+											class="ihelp"></span>
+										<span id="dashboard_d545c647-59d9-11eb-b312-fa163ebfbd00"
+											style="">2002</span>
+										<span id="reshelp_d545c647-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txtd545c769-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined"> ;</span>
+										<span id="dashboard_d545c769-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>Gestion des entreprises et des administrations</span>
+										</span>
+										<span id="reshelp_d545c769-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txtd545c769-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, option </span>
+										<span id="dashboard_d545c586-59d9-11eb-b312-fa163ebfbd00"
+											style="">Assistant gestion bancaire</span>
+										<span id="reshelp_d545c586-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txtd545c769-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_d545c51f-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span>IUT2 Grenoble</span>
+										</span>
+										<span id="reshelp_d545c51f-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txtd545c769-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_d545c2f9-59d9-11eb-b312-fa163ebfbd00"
+											style="">Grenoble</span>
+										<span id="reshelp_d545c2f9-59d9-11eb-b312-fa163ebfbd00"></span>
+										<span id="txtd545c769-59d9-11eb-b312-fa163ebfbd00"
+											style="" class="undefined">, </span>
+										<span id="dashboard_d545c5e6-59d9-11eb-b312-fa163ebfbd00"
+											style="">
+											<span class="" style="background-position:center;">
+												<span name="label"></span>
+											</span>
+										</span>
+										<span id="reshelp_d545c5e6-59d9-11eb-b312-fa163ebfbd00"></span>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
